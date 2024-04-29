@@ -34,21 +34,21 @@ While Dahab is famous (if not infamous) for the Blue Hole, there is so much more
 
 An absolutely stunning dive site, this site is a natural buoyancy park. While there aren’t islands per se, the site gets its name from the underwater islands of corals. You’ll need a bit of control, so it won’t be your first dive in Dahab, but it’s fairly shallow. I also know tec divers who have taken doubles and stayed for hours.
 
-Entry: Shore
+**Entry:** Shore
 
-Max depth: 12m
+**Max depth:** 12m
 
-Notes: Entry is a bit dependent on tides
+**Notes:** Entry is a bit dependent on tides
 
 ## 2\. Canyon
 
 Have you ever wanted to be in the cavern from ‘The Little Mermaid’? This is it, I swear. Once you find the crack in the sea floor, divers go one by one down into the canyon, where it opens up to a more sandy bottom. Many Advanced Course students do their deep dive here, as it’s safe and easy to kneel and check colors and do finger math.
 
-Entry: Shore
+**Entry:** Shore
 
-Max depth: 30m
+**Max depth:** 30m
 
-Notes: If you’re a nervous diver, be clear with your guide the order going into the canyon. Also don’t forget to check out the fish bowl (but don’t go in it)!
+**Notes:** If you’re a nervous diver, be clear with your guide the order going into the canyon. Also don’t forget to check out the fish bowl (but don’t go in it)!
 
 &nbsp;
 
@@ -58,21 +58,21 @@ Notes: If you’re a nervous diver, be clear with your guide the order going int
 
 So these are not really caves, more like an overhang of underwater rock – so no cave diving experience or licenses necessary. You get to see your bubbles trapped on the ceiling of the ’cave,’ like nowhere else I’ve been before.
 
-Entry: Shore jump to deep water
+**Entry:** Shore jump to deep water
 
-Max depth: 40m
+**Max depth:** 40m
 
-Notes: The entry and exit of this one can be a challenge, depending on tides and weather. Think of it like jumping into a pool and having to climb out without a ladder.
+**Notes:** The entry and exit of this one can be a challenge, depending on tides and weather. Think of it like jumping into a pool and having to climb out without a ladder.
 
 ## 4\. 3 Pools
 
 I’ve got a soft spot for this place, since I did my first night dive here (which unfortunately is no longer permitted). The south has a few spots all with similar entries, so makes for a great easy dive day for beginners.
 
-Entry: Shore
+**Entry:** Shore
 
-Max depth: 25m
+**Max depth:** 25m
 
-Notes: Take a close look at the sand underwater – this is where I learned Dahab, meaning ‘gold’ in Arabic got its name from the shimmering gold sand.
+**Notes:** Take a close look at the sand underwater – this is where I learned Dahab, meaning ‘gold’ in Arabic got its name from the shimmering gold sand.
 
 ![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .float-left-image width="3182" height="3181"}
 
@@ -80,11 +80,11 @@ Notes: Take a close look at the sand underwater – this is where I learned Daha
 
 Might be controversial, since it feels like the most boring and basic of dive sites in Dahab, but it actually has a ton of fish and is a great intro to the Red Sea. I also am a huge fan of the buoyancy park they’ve created and the different underwater sculptures.
 
-Entry: Shore
+**Entry:** Shore
 
-Max depth: 60m+
+**Max depth:** 60m+
 
-Notes: It also gets really deep pretty quickly, which is why it’s also great for freedive and tec training.
+**Notes:** It also gets really deep pretty quickly, which is why it’s also great for freedive and tec training.
 
 ### Honorable mention of the Blue Hole
 
