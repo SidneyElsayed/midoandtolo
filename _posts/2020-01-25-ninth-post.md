@@ -13,10 +13,12 @@ categories:
     - food
 featured_image: https://source.unsplash.com/random?sig=8
 seo:
-    title:
-    description:
+    title: 24 hours in Cairo
+    description: >-
+        If you’ve only got a day to do see Cairo, this 24-hour itinerary is for
+        you. This day is for Cairo, the living, breathing, life of the city.
     social_image:
-    keywords:
+    keywords: Cairo, itinerary
     hide-from-google: false
 ---
 If you’ve only got a day to do it, this is what you want to see. The best thing about these places is that they're still there – since they’ve always been there. Get ready to see the best spots in Cairo.
