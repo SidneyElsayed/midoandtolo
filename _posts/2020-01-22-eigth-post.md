@@ -38,13 +38,13 @@ If you’re just snorkeling, you might be able to sort it with one of the pick-u
 
 Whether diving or snorkeling, the way most people experience the Blue Hole is an easy drift. There’s a bunch of cafes around the main hole, but a little walk up and past the headstones, down some stairs and along the path gets you to the entry point. Jump in and it’s an easy drift to the saddle of the hole. Then, depending on how busy it is or what your guide has briefed, you can swim straight through or follow the coral edge.
 
-![](https://source.unsplash.com/random?sig=9){: .one-half-image}![](https://source.unsplash.com/random?sig=9){: .one-half-image}![](https://source.unsplash.com/random?sig=9){: .one-half-image}
+![](https://source.unsplash.com/random?sig=9){: .one-half-image}![](https://source.unsplash.com/random?sig=9){: .one-half-image}
 
 ## The Headstones?!
 
 Yes, people have died in the Blue Hole. For some, it’s been dubbed the "World's Most Dangerous Dive Site." However, dig a little deeper, there’s always more to the story. Some of the deaths were from a time of little knowledge of diving or people pushing their limits. But from friends who have been in Dahab a long time, most if not all of the people whose headstones lie at the Blue Hole passed doing what they love. Of course diving of any kind can be dangerous, but Egypt’s Blue Hole is hardly the world’s most dangerous dive site.
 
-![](https://source.unsplash.com/random?sig=9){: .one-half-image}
+&nbsp;
 
 ## The Arch
 
