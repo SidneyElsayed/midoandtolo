@@ -1,23 +1,69 @@
 ---
 layout: post-with-sidebar
-title: My eigth post 
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
-author: Tina
+title: Egypt’s Blue Hole
+description: >-
+    One of only around 10 of the planet’s “Blue Holes,” the Egyptian version
+    just might be the best. 
+author: Sidney
 featured: true
-categories: [life, self care]
+categories:
+    - diving
+    - egypt
+    - travel
 featured_image: https://source.unsplash.com/random?sig=9
-seo: 
-    title: 
-    description: 
-    social_image: 
-    keywords: 
+seo:
+    title: Egypt's Blue Hole
+    description: >-
+        One of only around 10 of the planet’s “Blue Holes,” the Egyptian version
+        just might be the best. 
+    social_image:
+    keywords: diving, blue hole, red sea, egypt
     hide-from-google: false
 ---
+One of only around 10 of the planet’s “Blue Holes,” the Egyptian version just might be the best. Unique to the other Blue Holes of the world, the Dahabian on is situated right next to the shore – no hours long boat rides needed. And, because of this, another unique feature is that this Blue Hole is actually filled with corals the entire way down, unlike others that are sinkholes of nothingness.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+&nbsp;
 
-<img src="https://source.unsplash.com/random?sig=9" class="one-half-image"><img src="https://source.unsplash.com/random?sig=9" class="one-half-image">
+**How do I get there?**
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+The Blue Hole is about 15-20 minutes drive from the town of Dahab. Located in the South Sinai region of Egypt, the closest airport is Sharm El Sheikh (SSH), just an hour’s drive to Dahab.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+&nbsp;
+
+Looking for a safe and reliable driver? Contact Mamdouh for who I use when getting to and from the airport, and tell them Tolo sent you so I can say hi to an old friend.
+
+&nbsp;
+
+**How far in advance do I need to plan?**
+
+If you’re just snorkeling, you might be able to sort it with one of the pick-ups-turn-taxis and rent a mask and fins when you’re there, but easier to get your snorkel trip sorted with one of the many shops in town beforehand. If you’re diving you definitely have to prearrange with a dive shop in Dahab - scuba or free diving. Permits are needed and take a day to process (usually - maybe if your guy knows a guy you can get your permit day-of).
+
+&nbsp;
+
+**Easy Drifting**
+
+Whether diving or snorkeling, the way most people experience the Blue Hole is an easy drift. There’s a bunch of cafes around the main hole, but a little walk up and past the headstones, down some stairs and along the path gets you to the entry point. Jump in and it’s an easy drift to the saddle of the hole. Then, depending on how busy it is or what your guide has briefed, you can swim straight through or follow the coral edge.
+
+&nbsp;
+
+**The Headstones?!**
+
+Yes, people have died in the Blue Hole. For some, it’s been dubbed the "World's Most Dangerous Dive Site." However, dig a little deeper, there’s always more to the story. Some of the deaths were from a time of little knowledge of diving or people pushing their limits. But from friends who have been in Dahab a long time, most if not all of the people whose headstones lie at the Blue Hole passed doing what they love. Of course diving of any kind can be dangerous, but Egypt’s Blue Hole is hardly the world’s most dangerous dive site.
+
+&nbsp;
+
+**The Arch**
+
+The famous Arch of the Blue Hole is located at 52 meters deep (170 feet). While once upon a time people tried (and some succeeded) in diving the Arch on a single rec tank, nowadays this is very much left to the tec divers. To reach the Arch you must be at least TDI Extended Range, which is the third level in TDI tec diving, or GUE Tec Diver 2.
+
+![](https://source.unsplash.com/random?sig=9){: .one-half-image}![](https://source.unsplash.com/random?sig=9){: .one-half-image}
+
+**The Cafes**
+
+Most cafes are pretty similar and if you’re going with a dive guide, they most likely have a favorite spot already. With such a great international diving community, the Blue Hole is pretty safe to leave your belongings at one of the cafes while you’re diving or snorkeling. However, you still need to be aware and take care, ultimately you are in charge of your own things.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
