@@ -1,14 +1,15 @@
 ---
 layout: post-with-sidebar
-title: My first post
+title: Top 5 Favorite Dives Sites in Dahab
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
   ab, eum dolore perspiciatis tenetur alias aspernatur
-author: Tina May
+author: Sidney
 featured: true
 categories:
   - travel
-  - life
+  - egypt
+  - diving
 featured_image: https://source.unsplash.com/random?sig=7
 seo:
   title:
