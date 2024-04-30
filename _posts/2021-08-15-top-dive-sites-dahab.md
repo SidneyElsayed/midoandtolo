@@ -7,9 +7,9 @@ description: >-
 author: Sidney
 featured: true
 categories:
-  - travel
-  - egypt
   - diving
+  - egypt
+  - travel
 featured_image: https://source.unsplash.com/random?sig=7
 seo:
   title: Top 5 Favorite Dives Sites in Dahab
