@@ -20,7 +20,6 @@ seo:
   keywords: new aparetment, moving homes, moving to Saudi Arabia
   hide-from-google: false
 ---
-##
 
 Me, I had to smile this morning.
 
