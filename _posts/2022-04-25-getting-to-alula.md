@@ -2,12 +2,13 @@
 layout: post-with-sidebar
 title: Getting to AlUla
 description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
-    ab, eum dolore perspiciatis tenetur alias aspernatur
+        Find the best information on getting AlUla, Saudi Arabia – from which
+        airport to fly into, visa and immigration information, and more.
 author: Sidney
 featured: false
 categories:
     - travel
+    - saudi arabia
 featured_image: https://source.unsplash.com/random?sig=6
 seo:
     title: Getting to AlUla
