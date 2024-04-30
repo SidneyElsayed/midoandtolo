@@ -8,6 +8,8 @@ author: Sidney
 featured: true
 categories:
     - travel
+    - UAE
+    - overland
 featured_image: https://source.unsplash.com/random?sig=3
 seo:
     title: Carnet de Passage registration in UAE
