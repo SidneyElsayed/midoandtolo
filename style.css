@@ -497,6 +497,12 @@ hr.short.center {
   .sm-portrait      { padding-bottom: 125%; }
   .sm-square        { padding-bottom: 100%; }
 
+  .logo-img {
+    cursor: pointer;
+    padding: 0.5rem;
+    max-width: 50%;
+  }
+
 }
 
 /* ------- XS Media Query (36em / 576px) --------------- */ 
