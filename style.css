@@ -269,7 +269,6 @@ nav a:hover {
 .dropdown { 
   position: relative; 
   display: inline-block;
-  border: 1px solid orange;
 }
 
 .dropdown-title {
@@ -287,7 +286,6 @@ nav a:hover {
   z-index: 2;
   text-align: left;
   min-width: 10rem;
-  border: 1px solid mediumvioletred;
 }
 
 .dropdown:hover .dropdown-content{ 
@@ -340,6 +338,8 @@ nav a:hover {
   }
 
 
+/* ------------ Footer Styles  ----------------------- */
+  .footer nav a    { text-transform: uppercase; }
 
 /* ------------ Contact Forms  ----------------------- */
 
