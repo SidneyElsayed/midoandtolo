@@ -348,6 +348,12 @@ nav a:hover {
 /* ------------  Images ----------------------- */
 .bg-image-logo-light { background-image: url('/images/mido-tolo-white-logo.png'); }
 
+.logo-img {
+  cursor: pointer;
+  padding: 0.5rem;
+  max-width: 30%;
+}
+
 /* ------------ Blogging elements  ----------------------- */
 
 
