@@ -339,7 +339,10 @@ nav a:hover {
 
 
 /* ------------ Footer Styles  ----------------------- */
-footer nav a    { text-transform: uppercase; }
+footer nav a    { 
+  text-transform: uppercase; 
+  font-weight: 700;
+}
 
 /* ------------ Contact Forms  ----------------------- */
 
