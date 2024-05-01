@@ -199,6 +199,7 @@ p:last-child {
 .emphasis       { font-size: 1.2rem; }
 .text-featured  { color: var(--featured-text);}
 .text-light     { color: var(--light-text);}
+.text-v-light     { color: var(--v-light);}
 .subtle         { opacity: 0.8;     }
 .subtitle       { font-size: 0.8rem; }
 
