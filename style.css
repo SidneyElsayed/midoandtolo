@@ -468,6 +468,12 @@ hr.short.center {
 	.show-md { display: block; }
 	.hide-md { display: none;  }
 
+  .logo-img {
+    cursor: pointer;
+    padding: 0.5rem;
+    max-width: 50%;
+  }
+
 }
 
 /* ------- SM Media Query (48em / 768px) --------------- */ 
@@ -496,12 +502,6 @@ hr.short.center {
   .sm-portrait-tall { padding-bottom: 175%; }
   .sm-portrait      { padding-bottom: 125%; }
   .sm-square        { padding-bottom: 100%; }
-
-  .logo-img {
-    cursor: pointer;
-    padding: 0.5rem;
-    max-width: 50%;
-  }
 
 }
 
