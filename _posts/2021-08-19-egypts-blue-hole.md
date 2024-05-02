@@ -32,7 +32,8 @@ The Blue Hole is about 15-20 minutes drive from the town of Dahab. Located in th
 
 If you’re just snorkeling, you might be able to sort it with one of the pick-ups-turn-taxis and rent a mask and fins when you’re there, but easier to get your snorkel trip sorted with one of the many shops in town beforehand. If you’re diving you definitely have to prearrange with a dive shop in Dahab - scuba or free diving. Permits are needed and take a day to process (usually - maybe if your guy knows a guy you can get your permit day-of).
 
-![](https://source.unsplash.com/random?sig=9){: .one-half-image}![](https://source.unsplash.com/random?sig=9){: .one-half-image}
+```
+```
 
 ## Easy Drifting
 
