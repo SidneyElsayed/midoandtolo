@@ -1,10 +1,10 @@
 ---
 layout: post-with-sidebar
-title: My second post 
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
-author: Daniel
+title: Origin Story
+description: In a hippie beach town in Egypt, Ahmed met Sidney. Read the full love story and learn how it's been Mido and Tolo ever since.
+author: Sidney
 featured: true
-categories: [food]
+categories: [life, egypt]
 featured_image: https://source.unsplash.com/random?sig=6
 seo: 
     title: 
