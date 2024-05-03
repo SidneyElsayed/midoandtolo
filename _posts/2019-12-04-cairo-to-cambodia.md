@@ -5,6 +5,7 @@ description: >-
     While outwardly nothing like the other, find the comparisons I draw between
     two places I've called home.
 author: Sidney
+read: 3 minutes
 featured: true
 categories:
     - life

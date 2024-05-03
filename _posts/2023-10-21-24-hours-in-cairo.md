@@ -6,6 +6,7 @@ description: >-
     see no pyramids, ride no camels. This day is for Cairo, the living,
     breathing, life of the city. 
 author: Sidney
+read: 7 minutes
 featured: true
 categories:
     - egypt
@@ -51,7 +52,7 @@ The bravest walk, but an uber will do.
 
 Last stop for souvenirs, or in Mido’s case to eat the best stuffed pigeon in Cairo and for me to see an old friend.
 
-If you haven’t tried pigeon before, now’s your chance. Mostly dark meat like a good turkey leg, pigeons (hammam) are a common meal in Egypt, stuffed with deliciously spiced rice and cooked til golden and crispy. [Farahat Restaurant](https://www.google.com/maps/place/Farahat+Grill/@30.0465359,31.2580651,17z/data=!4m10!1m2!2m1!1sfarahat+restaurantKhan+el-Khalili!3m6!1s0x145840a03c042d91:0xd1707c88dfbfbb57!8m2!3d30.0465736!4d31.2608732!15sCiJmYXJhaGF0IHJlc3RhdXJhbnQgS2hhbiBlbC1LaGFsaWxpWiQiImZhcmFoYXQgcmVzdGF1cmFudCBraGFuIGVsIGtoYWxpbGmSARNiYXJiZWN1ZV9yZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5oTlhWMmNGQlJFQUXgAQA!16s%2Fg%2F11dymvz_bb?entry=ttu) is as local as it gets, with plastic tables tucked in the alleyway. Don’t miss out on the soup, served in a cup, and an order of (WHAT ELSE DID WE GET). Aish baladi (bread) and salad comes alongside.
+If you haven’t tried pigeon before, now’s your chance. Mostly dark meat like a good turkey leg, pigeons (hammam) are a common meal in Egypt, stuffed with deliciously spiced rice and cooked til golden and crispy. [Farahat Restaurant](https://www.google.com/maps/place/Farahat+Grill/@30.0465359,31.2580651,17z/data=!4m10!1m2!2m1!1sfarahat+restaurantKhan+el-Khalili!3m6!1s0x145840a03c042d91:0xd1707c88dfbfbb57!8m2!3d30.0465736!4d31.2608732!15sCiJmYXJhaGF0IHJlc3RhdXJhbnQgS2hhbiBlbC1LaGFsaWxpWiQiImZhcmFoYXQgcmVzdGF1cmFudCBraGFuIGVsIGtoYWxpbGmSARNiYXJiZWN1ZV9yZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5oTlhWMmNGQlJFQUXgAQA!16s%2Fg%2F11dymvz_bb?entry=ttu) is as local as it gets, with plastic tables tucked in the alleyway. Don’t miss out on the soup, served in a paper cup. Aish baladi (bread) and salad comes alongside.
 
 Full and happy, you can make your way to the rest of the market next. Twisting narrow alleyways that open up to small plazas are what create the magic of Khan El Khalili. It’s busy and the shopkeepers heckle and haggle like the best of ‘em, but it’s all part of the fun. [Fishawy](https://www.google.com/maps/place/El+Fishawy+Cafe/@30.0471152,31.2605319,18.03z/data=!4m9!1m2!2m1!1sfarahat+restaurantKhan+el-Khalili!3m5!1s0x14583f600025b819:0xafc21152ed3389d1!8m2!3d30.0475145!4d31.2623809!16s%2Fg%2F1tdv9l30?entry=ttu) is a classic if you want to have tea, fresh juice or a shisha, or head to [Naguib Mahfouz](https://www.google.com/maps/place/Khan+El+Khalili+Restaurant+et+Naguib+Mahfouz+Coffee+Shop/@30.0476225,31.2596048,17.86z/data=!4m9!1m2!2m1!1sfarahat+restaurantKhan+el-Khalili!3m5!1s0x1458409fe312f077:0x38ed746841b3f83!8m2!3d30.0480626!4d31.2616185!16s%2Fg%2F1tm9dgjw?entry=ttu) for a more posh setting.
 

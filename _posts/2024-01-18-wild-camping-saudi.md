@@ -5,6 +5,7 @@ description: >-
     Embedded in the culture, overland travel is safe and easy – arguably the
     best way to experience Saudi.
 author: Sidney
+read: 1 minute
 featured: true
 categories:
     - life

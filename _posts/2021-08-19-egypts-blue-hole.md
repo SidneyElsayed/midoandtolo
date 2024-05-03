@@ -5,6 +5,7 @@ description: >-
     One of only around 10 of the planet’s “Blue Holes,” the Egyptian version
     just might be the best. 
 author: Sidney
+read: 3 minutes
 featured: true
 categories:
     - diving

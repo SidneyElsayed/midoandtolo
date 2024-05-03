@@ -5,6 +5,7 @@ description: >-
         Find the best information on getting AlUla, Saudi Arabia – from which
         airport to fly into, visa and immigration information, and more.
 author: Sidney
+read: 2 minutes
 featured: false
 categories:
     - travel

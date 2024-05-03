@@ -5,6 +5,7 @@ description: >-
     In a hippie beach town in Egypt, Ahmed met Sidney. Read the full love story
     and learn how it's been Mido and Tolo ever since.
 author: Sidney
+read: 2 minutes
 featured: true
 categories:
     - life
