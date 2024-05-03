@@ -410,6 +410,7 @@ footer nav a    {
   font-family: 'Martel', serif; 
   font-weight: 200;
   font-size: 3rem;
+  margin-top: 0.3rem;
 }
 
 .blog-content p {
