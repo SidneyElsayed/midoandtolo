@@ -177,7 +177,7 @@ body {
   color: var(--dark-text);
 }
 
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   margin-bottom: 1.2rem;
 }
@@ -210,9 +210,12 @@ p:last-child {
 .emphasis       { font-size: 1.2rem; }
 .text-featured  { color: var(--featured-text);}
 .text-light     { color: var(--light-text);}
-.text-v-light     { color: var(--v-light);}
+.text-v-light   { color: var(--v-light);}
 .subtle         { opacity: 0.8;     }
 .subtitle       { font-size: 0.8rem; }
+.text-lg        { font-size: 4rem; }
+.text-xl        { font-size: 5rem; }
+.text-xxl       { font-size: 6rem; }
 
 
 /* ------------ Buttons & Links ------------ */
