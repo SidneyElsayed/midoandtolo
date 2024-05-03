@@ -66,6 +66,7 @@ section { position: relative; }
 .padded-r-0 { padding-right: 0; }
 
 /* Margin Utility Classes */ 
+.margin { margin: 5%; }
 
 .margin-t { margin-top: 5%; }
 .margin-b { margin-bottom: 5%; }
