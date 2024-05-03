@@ -104,7 +104,7 @@ section { position: relative; }
 .bg-v-light  { background-color: var(--v-light); }
 
 .bg-image {
-    background-color: var(--light); /* Set a fall-back color while images are loading */ 
+    background-color: var(--v-light); /* Set a fall-back color while images are loading */ 
     background-image: url('https://source.unsplash.com/8Ogfqvw15Rg/1600x1600');
     background-size: cover;
     background-position: center; 
