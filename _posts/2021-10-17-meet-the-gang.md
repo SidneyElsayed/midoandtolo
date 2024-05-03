@@ -2,17 +2,18 @@
 layout: post-with-sidebar
 title: Meet the Gang
 description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
-    ab, eum dolore perspiciatis tenetur alias aspernatur
-author: Catherine
+    Everyone in the family has a name. Well that might sound obvious, but not
+    when you realize who and what is considered part of the family.
+author: Sidney
 featured: true
 categories:
-    - self care
-    - travel
+    - life
 featured_image: https://source.unsplash.com/random?sig=5
 seo:
-    title:
-    description:
+    title: Meet the Gang
+    description: >-
+        Everyone in the family has a name. Well that might sound obvious, but
+        not when you realize who and what is considered part of the family.
     social_image:
     keywords:
     hide-from-google: false
