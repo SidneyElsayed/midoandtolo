@@ -103,6 +103,16 @@ section { position: relative; }
 .bg-light    { background-color: var(--light); }
 .bg-v-light  { background-color: var(--v-light); }
 
+.bg-featured-o-50 {
+  background-color: var(--featured);
+  opacity: 50%;
+}
+
+.bg-medium-o-50 {
+  background-color: var(--medium);
+  opacity: 50%;
+}
+
 .bg-image {
     background-color: var(--v-light); /* Set a fall-back color while images are loading */ 
     background-image: url('https://source.unsplash.com/8Ogfqvw15Rg/1600x1600');
