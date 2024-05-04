@@ -105,7 +105,9 @@ section { position: relative; }
 
 .bg-dark     { background-color: var(--dark);}
 .bg-featured { background-color: var(--featured);}
+.bg-featured-o { background-color: var(--featured-o);}
 .bg-medium   { background-color: var(--medium); }
+.bg-medium-o   { background-color: var(--medium-o); }
 .bg-light    { background-color: var(--light); }
 .bg-v-light  { background-color: var(--v-light); }
 
@@ -429,6 +431,12 @@ footer nav a    {
   margin-bottom: 1rem;
   color: var(--medium-text);
 }
+
+.sidebar-item-us {
+  margin-bottom: 1rem;
+  color: var(--dark-text);
+}
+
 .sidebar-item p {
   font-family: 'Mulish', serif; 
   font-weight: 300;
