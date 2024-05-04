@@ -235,6 +235,10 @@ a:hover {
   color: var(--featured-text); 
 }
 
+.hover-white a:hover {
+  color: white; 
+}
+
 p a {
     text-decoration: none;
     border-bottom: 1px solid;
