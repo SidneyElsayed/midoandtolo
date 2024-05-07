@@ -10,6 +10,8 @@ featured: true
 categories:
     - life
     - egypt
+destinations: 
+    - egypt
 featured_image: https://source.unsplash.com/random?sig=6
 seo:
     title:

@@ -11,6 +11,8 @@ categories:
   - diving
   - egypt
   - travel
+destinations: 
+    - egypt
 featured_image: https://source.unsplash.com/random?sig=7
 seo:
   title: Top 5 Favorite Dives Sites in Dahab

@@ -11,6 +11,8 @@ categories:
     - diving
     - egypt
     - travel
+destinations: 
+    - egypt
 featured_image: https://source.unsplash.com/random?sig=9
 seo:
     title: Egypt's Blue Hole

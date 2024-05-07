@@ -12,6 +12,8 @@ categories:
     - egypt
     - travel
     - food
+destinations: 
+    - egypt
 featured_image: https://source.unsplash.com/random?sig=8
 seo:
     title: 24 hours in Cairo
