@@ -370,6 +370,15 @@ footer nav a    {
   font-weight: 700;
 }
 
+.copyright {
+  padding-bottom: 1rem;
+  color: whitesmoke;
+  opacity: 65%;
+  font-weight: 300;
+  font-size: 0.9rem;
+  font-family: 'Mulish', serif;
+}
+
 /* ------------ Contact Forms  ----------------------- */
 
 
