@@ -8,12 +8,12 @@
             {{ page.description_html }}
 
         </div>
-  
-            {%  assign relevant-destinations = site.destination | where_exp:"destination", "destination.categories contains page.category" %}
 
-            {% for destination in relevant-destinations %}
+            {% for post in site.category[page.categories] %}
+
+                {{post.title}}
             
-                {% include destination-post-loop-item-square.html %}
+                {% include post-loop-item-square.html %}
 
             {% endfor %}
 

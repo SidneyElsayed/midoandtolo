@@ -383,6 +383,31 @@ footer nav a    {
   font-family: 'Mulish', serif;
 }
 
+/* ------------ Sitemap Styles  ----------------------- */
+.sitemap a {
+  color: inherit;
+  text-decoration: none;
+  display: block;
+  padding: 0.3rem 0;
+}
+
+.sitemap a:hover {
+  /* color: var(--featured-text); */
+  text-decoration: underline;
+}
+
+.sitemap-category-title {
+  display: flex;
+  font-size: 1.2rem;
+}
+
+.sitemap-category-title a {
+  color: inherit;
+  text-decoration: none;
+  display: block;
+  padding: 0 0.3rem;
+}
+
 /* ------------ Contact Forms  ----------------------- */
 
 
