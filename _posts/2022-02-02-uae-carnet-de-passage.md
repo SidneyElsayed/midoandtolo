@@ -5,7 +5,7 @@ description: >-
     Find out exactly how and where to get your Carnet de Passage in Dubai for
     overland travel in the region.
 author: Sidney
-read: 2 minutes
+read: 2 min
 featured: true
 categories:
     - overland

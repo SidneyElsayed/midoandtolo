@@ -5,7 +5,7 @@ description: >-
   Some thoughts on our first apartment in AlUla, and remembering that even when
   things aren't as you'd hoped, there's still something to smile about.
 author: Sidney
-read: 2 minutes
+read: 2 min
 featured: false
 categories:
   - life

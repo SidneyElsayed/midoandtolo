@@ -5,7 +5,7 @@ description: >-
     Everyone in the family has a name. Well that might sound obvious, but not
     when you realize who and what is considered part of the family.
 author: Sidney
-read: 2 minutes
+read: 2 min
 featured: true
 categories:
     - life

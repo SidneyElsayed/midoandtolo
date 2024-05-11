@@ -5,7 +5,7 @@ description: >-
   While Dahab is famous (if not infamous) for the Blue Hole, there is so much
   more to see than that one site.
 author: Sidney
-read: 3 minutes
+read: 3 min
 featured: true
 categories:
   - diving

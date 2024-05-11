@@ -6,7 +6,7 @@ description: >-
     see no pyramids, ride no camels. This day is for Cairo, the living,
     breathing, life of the city. 
 author: Sidney
-read: 7 minutes
+read: 7 min
 featured: true
 categories:
     - egypt
