@@ -4,9 +4,9 @@
 <div class="col-4_xs-12 post-item padded-1">
     <a href="{{ post.url }}" class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></a>
     <div class="padded-t-1 padded-b-1">
-        {%  assign relevant-destinations = site.destination | where_exp:"destination", "destination.categories contains page.category" %}
+        {%  assign relevant-destinatios = site.destinations | where_exp:"destination", "destination.categories contains page.category" %}
         
-        {% for item in destination.categories %}
+        {% for item in destinations.categories %}
             <span class="tag"> {{item}} </span>
         {% endfor %}
 
