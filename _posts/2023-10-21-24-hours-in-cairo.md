@@ -14,7 +14,7 @@ categories:
     - food
 destinations:
     - egypt
-featured_image: https://source.unsplash.com/random?sig=8
+featured_image: /uploads/midoandtolo-47.jpg
 seo:
     title: 24 hours in Cairo
     description: >-
