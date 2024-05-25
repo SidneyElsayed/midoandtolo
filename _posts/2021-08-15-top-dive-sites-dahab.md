@@ -31,7 +31,7 @@ _comments:
 
 While Dahab is famous (if not infamous) for the Blue Hole, there is so much more to see than that one site.
 
-&nbsp;
+&nbsp;![Sidney diving in Dahab, Egypt](/uploads/midoandtolo-36.jpg)
 
 ## 1\. Islands
 
@@ -43,6 +43,8 @@ An absolutely stunning dive site, this site is a natural buoyancy park. While th
 
 **Notes:** Entry is a bit dependent on tides
 
+![Surface interval at the Canyon dive site](/uploads/midoandtolo-156.jpg)
+
 ## 2\. Canyon
 
 Have you ever wanted to be in the cavern from ‘The Little Mermaid’? This is it, I swear. Once you find the crack in the sea floor, divers go one by one down into the canyon, where it opens up to a more sandy bottom. Many Advanced Course students do their deep dive here, as it’s safe and easy to kneel and check colors and do finger math.
@@ -53,9 +55,7 @@ Have you ever wanted to be in the cavern from ‘The Little Mermaid’? This is 
 
 **Notes:** If you’re a nervous diver, be clear with your guide the order going into the canyon. Also don’t forget to check out the fish bowl (but don’t go in it)!
 
-&nbsp;
-
-&nbsp;
+![A picture of the surface entrance at the Caves dive site in Dahab, Egypt](/uploads/midoandtolo-160.jpg)
 
 ## 3\. Caves
 
@@ -67,6 +67,8 @@ So these are not really caves, more like an overhang of underwater rock – so n
 
 **Notes:** The entry and exit of this one can be a challenge, depending on tides and weather. Think of it like jumping into a pool and having to climb out without a ladder.
 
+![Seating area at Dahab's South, with a few cafes and multiple dive sites including 3 Pools](/uploads/midoandtolo-157.jpg)
+
 ## 4\. 3 Pools
 
 I’ve got a soft spot for this place, since I did my first night dive here (which unfortunately is no longer permitted). The south has a few spots all with similar entries, so makes for a great easy dive day for beginners.
@@ -77,7 +79,7 @@ I’ve got a soft spot for this place, since I did my first night dive here (whi
 
 **Notes:** Take a close look at the sand underwater – this is where I learned Dahab, meaning ‘gold’ in Arabic got its name from the shimmering gold sand.
 
-&nbsp;
+![Divers get ready to descend at Lighthouse](/uploads/midoandtolo-167.jpg)
 
 ## 5\. Lighthouse
 
