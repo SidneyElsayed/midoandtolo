@@ -415,6 +415,7 @@ footer nav a    {
 /* ------------  Images ----------------------- */
 .bg-image-logo-light { background-image: url('/images/mido-tolo-white-logo.png'); }
 .bg-image-logo-color-b { background-image: url('/images/mido-tolo-color-logo-b.png'); }
+.raptor-zouz-beach-img { background-image: url('/images/midoandtolo-100.jpg'); }
 
 .logo-img {
   cursor: pointer;
