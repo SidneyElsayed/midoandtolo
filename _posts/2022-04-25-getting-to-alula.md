@@ -10,7 +10,7 @@ featured: false
 categories:
     - travel
     - saudi arabia
-featured_image: https://source.unsplash.com/random?sig=6
+featured_image: /uploads/midoandtolo-103.jpg
 seo:
     title: Getting to AlUla
     description: >-
