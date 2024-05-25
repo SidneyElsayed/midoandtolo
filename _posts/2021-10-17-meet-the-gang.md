@@ -27,7 +27,7 @@ seo:
 
 Don’t let the big hair fool you, there are plenty of secrets hidden in that head of his. Ahmed is a mastermind of social media, paid campaign wiz and all-around marketing genius – the real fun is in the journey. From his start as real-life ‘Scuba Steve’ to helping put Saudi on the map as an international travel destination, I’m convinced there’s nothing this man can’t do.
 
-![Sidney shading herself from the sun with a gren scarf that matches her green eyes](/uploads/midoandtolo-1.jpg)
+![Sidney in Santorini, Greece](/uploads/midoandtolo-62.jpg)
 
 ## **Tolo**
 
