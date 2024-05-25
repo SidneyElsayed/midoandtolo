@@ -11,7 +11,7 @@ categories:
     - overland
     - UAE
     - travel
-featured_image: https://source.unsplash.com/random?sig=3
+featured_image: /https:/source.unsplash.com/midoandtolo-20.jpg
 seo:
     title: Carnet de Passage registration in UAE
     description: >-
