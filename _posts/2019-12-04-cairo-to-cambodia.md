@@ -36,6 +36,8 @@ As I walk my way home, an old woman sits in the shade watching the world go by. 
 
 My own Cambodian balcony boasts a jungle of plants and space I dreamed of for my Cairo apartment. Wine bottles turned candle holders litter the table and tired furniture sits in the sun. The apartment itself shows the turnover of tenants. Long expired spices hide in the kitchen and paintings lean against walls inside. I close my eyes and can imagine the house parties thrown here, reminiscent of the ones I had attended in Cairo.
 
+![](/uploads/midoandtolo-77.jpg)
+
 A place so new, yet so familiar. And I wonder, is it the place, or the people, or me? Could I find familiarity in anything, if I truly wanted? Is it a sense of missing my home away from home, a sense of longing that created this familiarity? I smile, because it doesn’t matter either way – my heart knows.
 
 &nbsp;
