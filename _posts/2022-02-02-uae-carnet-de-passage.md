@@ -45,4 +45,4 @@ You’re not done yet though. Just down the road is the [CARS Vehicle Testing Ce
 
 Now you’re ready to hit the road!
 
-![](/uploads/midoandtolo-28.jpg)
+![](/uploads/midoandtolo-28.jpg){: .wide-image}
