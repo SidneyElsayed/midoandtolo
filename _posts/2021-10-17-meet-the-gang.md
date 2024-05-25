@@ -9,7 +9,7 @@ read: 2 min
 featured: true
 categories:
     - life
-featured_image: https://source.unsplash.com/random?sig=5
+featured_image: /uploads/midoandtolo-11.jpg
 seo:
     title: Meet the Gang
     description: >-
