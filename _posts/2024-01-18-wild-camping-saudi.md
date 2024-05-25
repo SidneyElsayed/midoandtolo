@@ -24,6 +24,8 @@ One of our favorite things since moving to Saudi is wild camping – which is ju
 
 &nbsp;
 
+![](/uploads/midoandtolo-26.jpg)![](/uploads/midoandtolo-27.jpg)![](/uploads/midoandtolo-25.jpg)
+
 It’s also a huge part of the culture. Traditionally a nomadic people and home to the famous Incense Road, it’s in Saudi nature to travel long distances and explore. When most cities are at least hundreds of kilometers (or hundreds of miles) away, road trips of a few hours start to feel like nothing. Even the Tolo parents agreed to a road trip from AlUla to Yanbu (and Mama Kathy doesn’t do road trips).
 
 And on the flip side, Saudis are so welcoming to anyone passing through. While on the road, we’ve been invited to houses for a meal countless times and been given dates, homemade sweets, Saudi coffee and more. Many are curious to hear what we think of the country and the culture and are just generally so excited to see foreigners enjoying their country.
