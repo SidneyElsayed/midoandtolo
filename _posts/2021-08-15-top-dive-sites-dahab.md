@@ -11,9 +11,9 @@ categories:
   - diving
   - egypt
   - travel
-destinations: 
-    - egypt
-featured_image: https://source.unsplash.com/random?sig=7
+destinations:
+  - egypt
+featured_image: /uploads/midoandtolo-36.jpg
 seo:
   title: Top 5 Favorite Dives Sites in Dahab
   description: >-
@@ -55,7 +55,7 @@ Have you ever wanted to be in the cavern from ‘The Little Mermaid’? This is 
 
 &nbsp;
 
-![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}
+&nbsp;
 
 ## 3\. Caves
 
@@ -77,7 +77,7 @@ I’ve got a soft spot for this place, since I did my first night dive here (whi
 
 **Notes:** Take a close look at the sand underwater – this is where I learned Dahab, meaning ‘gold’ in Arabic got its name from the shimmering gold sand.
 
-![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .float-left-image width="3182" height="3181"}
+&nbsp;
 
 ## 5\. Lighthouse
 
