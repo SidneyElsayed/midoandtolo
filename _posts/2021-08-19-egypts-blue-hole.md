@@ -11,9 +11,9 @@ categories:
     - diving
     - egypt
     - travel
-destinations: 
+destinations:
     - egypt
-featured_image: https://source.unsplash.com/random?sig=9
+featured_image: /uploads/midoandtolo-36.jpg
 seo:
     title: Egypt's Blue Hole
     description: >-
@@ -29,20 +29,17 @@ One of only around 10 of the planet’s “Blue Holes,” the Egyptian version j
 
 The Blue Hole is about 15-20 minutes drive from the town of Dahab. Located in the South Sinai region of Egypt, the closest airport is Sharm El Sheikh (SSH), just an hour’s drive to Dahab.
 
-![](https://source.unsplash.com/random?sig=9){: .one-half-image}
+&nbsp;
 
 ## How far in advance do I need to plan?
 
 If you’re just snorkeling, you might be able to sort it with one of the pick-ups-turn-taxis and rent a mask and fins when you’re there, but easier to get your snorkel trip sorted with one of the many shops in town beforehand. If you’re diving you definitely have to prearrange with a dive shop in Dahab - scuba or free diving. Permits are needed and take a day to process (usually - maybe if your guy knows a guy you can get your permit day-of).
 
-```
-```
-
 ## Easy Drifting
 
 Whether diving or snorkeling, the way most people experience the Blue Hole is an easy drift. There’s a bunch of cafes around the main hole, but a little walk up and past the headstones, down some stairs and along the path gets you to the entry point. Jump in and it’s an easy drift to the saddle of the hole. Then, depending on how busy it is or what your guide has briefed, you can swim straight through or follow the coral edge.
 
-![](https://source.unsplash.com/random?sig=9){: .one-half-image}![](https://source.unsplash.com/random?sig=9){: .one-half-image}
+&nbsp;
 
 ## The Headstones?!
 
@@ -53,8 +50,6 @@ Yes, people have died in the Blue Hole. For some, it’s been dubbed the "World'
 ## The Arch
 
 The famous Arch of the Blue Hole is located at 52 meters deep (170 feet). While once upon a time people tried (and some succeeded) in diving the Arch on a single rec tank, nowadays this is very much left to the tec divers. To reach the Arch you must be at least TDI Extended Range, which is the third level in TDI tec diving, or GUE Tec Diver 2.
-
-![](https://source.unsplash.com/random?sig=9){: .one-half-image}![](https://source.unsplash.com/random?sig=9){: .one-half-image}
 
 ## The Cafes
 
