@@ -2,8 +2,8 @@
 layout: post-with-sidebar
 title: Getting to AlUla
 description: >-
-        Find the best information on getting AlUla, Saudi Arabia – from which
-        airport to fly into, visa and immigration information, and more.
+    Find the best information on getting AlUla, Saudi Arabia – from which
+    airport to fly into, visa and immigration information, and more.
 author: Sidney
 read: 2 min
 featured: false
@@ -22,9 +22,13 @@ seo:
 ---
 One of the last untapped places in the world, AlUla should most definitely be on your bucket list. Off the beaten path in the most literal sense, it does take a little planning to get here – but believe me when I say it’s so worth it. And you’ve got two of the town's best tour guides to help lead the way.
 
+![Signage of AlUla International Airport](/uploads/midoandtolo-103.jpg)
+
 ## AlUla International Airport
 
 First things first, hardly anyone outside of AlUla spells AlUla correctly. This is especially difficult when trying to search for flights. The airport code is **ULH**, and it’s best to use for searching flight routes into this magical city.
+
+![picture of used airline ticket from DOH (Doha) to ULH (AlUla)](/uploads/midoandtolo-112.jpg)
 
 ## International or Domestic Flights
 
