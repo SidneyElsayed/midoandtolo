@@ -21,7 +21,7 @@ seo:
 ---
 ##### Everyone in the family has a name. Well that might sound obvious, but not when you realize who and what is considered part of the family.
 
-![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg)
+&nbsp;
 
 ## **![Mido walking through rice fields in Bali](/uploads/midoandtolo-22.jpg)Mido**
 
