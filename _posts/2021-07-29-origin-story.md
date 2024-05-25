@@ -10,9 +10,9 @@ featured: true
 categories:
     - life
     - egypt
-destinations: 
+destinations:
     - egypt
-featured_image: https://source.unsplash.com/random?sig=6
+featured_image: /uploads/midoandtolo-14.jpg
 seo:
     title:
     description:
@@ -22,7 +22,7 @@ seo:
 ---
 ##### *To say it all started with a mango is an over simplification, sure, but it didn’t \*not\* start with a mango.*
 
-Ahmed and I met on a beach in a hippie town on the Red Sea coast of Egypt. For those of you who don’t know Dahab, you should. It’s a diving Mecca for free divers and scuba divers alike. There’s even a Netflix movie out about it (The Deepest Breath).
+Ahmed and I met on a beach in a hippie town on the Red Sea coast of Egypt. For those of you who don’t know Dahab, you should. It’s a diving Mecca for free divers and scuba divers alike. There’s even a Netflix movie out about it ([The Deepest Breath](https://www.youtube.com/watch?v=MzH6BI6P4Uo){: target="_blank" rel="noopener"}).
 
 What’s great about this story though, is that Dahab has been a special place for each of us, separately, before it brought us to each other. We met at a time when each of us needed a break – break from covid, break from stress – and a chance to reconnect with nature and ourselves. In different ways, we felt called back to Dahab.
 
