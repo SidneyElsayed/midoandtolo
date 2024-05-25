@@ -10,7 +10,7 @@ featured: true
 categories:
     - life
     - overland
-featured_image: https://source.unsplash.com/random?sig=4
+featured_image: /uploads/midoandtolo-25.jpg
 seo:
     title: Road Trips & Wild Camping in Saudi
     description: >-
