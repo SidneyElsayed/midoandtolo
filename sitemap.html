@@ -35,18 +35,9 @@ seo:
     <div class="grid col-12 sitemap">
         <h2 class="grid col-12"> Pages by Category </h2> 
         <div class="grid col-6_sm-12 padded padded-t-1">
-        
-            <h4 class="sitemap-category-title padded-t-1">Category: <a href="/diving.html"> Diving</a></h4>
-            
+
+            {% include sitemap-category-loop.html %}
 
         </div>
-
-        <div class="grid col-6_sm-12 padded padded-t-1">
-        
-            <h4 class="sitemap-category-title padded-t-1">Category: <a href="/food.html"> Food</a></h4>
-
-        </div>
-
-        {% include sitemap-category-loop.html %}
     </div>
 </section>
