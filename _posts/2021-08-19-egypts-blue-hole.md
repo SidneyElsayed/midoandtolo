@@ -11,8 +11,6 @@ categories:
     - diving
     - egypt
     - travel
-destinations:
-    - egypt
 featured_image: /uploads/midoandtolo-36.jpg
 seo:
     title: Egypt's Blue Hole

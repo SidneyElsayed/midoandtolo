@@ -16,8 +16,10 @@
       <div class="dropdown">
         <span class="dropdown-title uppercase"> Destinations </span>
         <div class="dropdown-content">
-          {% for cat in site.destinations %}
+          {% for cat in site.archives %}
+          {% if cat.location == true %}
           <a href="{{cat.url}}"> {{cat.category}} </a>
+          {% endif %}
           {% endfor %}
           <!-- <a href="/self-care"> Self Care </a>
           <a href="/travel"> Travel </a> -->
@@ -29,7 +31,9 @@
         <span class="dropdown-title uppercase"> Catgeories </span>
         <div class="dropdown-content">
           {% for cat in site.archives %}
+          {% unless cat.location == true %}
           <a href="{{cat.url}}"> {{cat.category}} </a>
+          {% endunless %}
           {% endfor %}
           <!-- <a href="/self-care"> Self Care </a>
           <a href="/travel"> Travel </a> -->
