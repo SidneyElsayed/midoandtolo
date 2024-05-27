@@ -217,10 +217,12 @@ p:last-child {
 /* Unique Typography Styles  */
 .emphasis       { font-size: 1.2rem; }
 .text-featured  { color: var(--featured-text);}
+.text-medium    { color: var(--medium-text)}
 .text-light     { color: var(--light-text);}
 .text-v-light   { color: var(--v-light);}
-.subtle         { opacity: 0.8;     }
+.subtle         { opacity: 0.8;}
 .subtitle       { font-size: 0.8rem; }
+.text-md        { font-size: 1.4rem; }
 .text-lg        { font-size: 4rem; }
 .text-xl        { font-size: 5rem; }
 .text-xxl       { font-size: 6rem; }
