@@ -418,9 +418,32 @@ footer nav a    {
 .bg-image-logo-light { background-image: url('/images/mido-tolo-white-logo.png'); }
 .bg-image-logo-color-b { background-image: url('/images/mido-tolo-color-logo-b.png'); }
 .raptor-zouz-beach-img { background-image: url('/images/midoandtolo-100.jpg'); }
-.mido-beach-camera-img { background-image: url('/images/midoandtolo-5.jpg'); }
+.mido-beach-camera-img { 
+  background-image: url('/images/midoandtolo-5.jpg'); 
+  background-position: 50% 37%;
+}
 .tolo-mido-driving-img { background-image: url('/images/midoandtolo-111.jpg'); }
 .tolo-cc-beach-img { background-image: url('/images/midoandtolo-14.jpg'); }
+.sandy-zouz-img { background-image: url('/images/midoandtolo-2.jpg'); }
+.terrace-view-img { background-image: url('/images/midoandtolo-17.jpg'); }
+.mido-red-sea-sunset-img { background-image: url('/images/midoandtolo-4.jpg'); }
+.mount-batur-img { background-image: url('/images/midoandtolo-23.jpg'); }
+.zouz-rijal-almaa-car-img { background-image: url('/images/midoandtolo-30.jpg'); }
+.zouz-rijal-almaa-img { background-image: url('/images/midoandtolo-32.jpg'); }
+.mido-driving-rijal-almaa-img { background-image: url('/images/midoandtolo-33.jpg'); }
+.bb-zouz-car-img { background-image: url('/images/midoandtolo-33.jpg'); }
+.zouz-raptor-window-img { background-image: url('/images/midoandtolo-52.jpg'); }
+.red-sea-sunset-img { background-image: url('/images/midoandtolo-54.jpg'); }
+.the-house-img { background-image: url('/images/midoandtolo-58.jpg'); }
+.mido-tolo-balloon-img { background-image: url('/images/midoandtolo-59.jpg'); }
+.mido-tolo-zouz-car-img { background-image: url('/images/midoandtolo-101.jpg'); }
+.tolo-mango-basata-img { background-image: url('/images/midoandtolo-130.jpg'); }
+.mido-boat-img { background-image: url('/images/midoandtolo-120.jpg'); }
+.tolo-mango-face-img { background-image: url('/images/midoandtolo-132.jpg'); }
+.mango-img { background-image: url('/images/midoandtolo-162.jpg'); }
+.mido-first-photo-img { background-image: url('/images/midoandtolo-159.jpg'); }
+.mido-basata-img { background-image: url('/images/midoandtolo-140.jpg'); }
+
 
 .logo-img {
   cursor: pointer;
@@ -438,6 +461,55 @@ footer nav a    {
 .border-sm { border: 1rem solid white;}
 .border-md { border: 2rem solid white;}
 .border-lg { border: 3rem solid white;}
+
+/* ------------ Slick Slider styles  ----------------------- */
+.slider-container {
+  padding: 5%;
+}
+
+.slider-item {
+  padding: 0.25rem;
+  display: none;
+}
+
+/* .slider-item:first-child {
+display: block;
+} */
+
+.slick-next::before, .slick-prev::before {
+  font-family: slick;
+  font-size: 20px;
+  line-height: 1;
+  opacity: .75;
+  color: var(--medium);
+}
+
+.slick-prev {
+  left: 2%;
+}
+
+.slick-next {
+  right: 2%;
+}
+
+.slick-dots {
+  bottom: 5%;
+  left: 0; /* This align the dots perfectly to the center, do not delete */
+}
+
+.slick-dots li,
+.slick-dots li button {
+   	width: 12px;
+}
+
+.slick-dots li button::before {
+  font-size: 12px;
+  color: var(--medium);
+}
+
+.slick-dots li.slick-active button::before {
+  color: var(--dark);
+}
 
 
 
