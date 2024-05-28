@@ -504,11 +504,11 @@ display: block;
 
 .slick-dots li button::before {
   font-size: 12px;
-  color: var(--medium);
+  color: var(--dark);
 }
 
 .slick-dots li.slick-active button::before {
-  color: var(--dark);
+  color: var(--medium);
 }
 
 
