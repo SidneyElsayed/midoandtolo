@@ -20,41 +20,68 @@ seo:
 
 </section>
 
-<!------------------------ Featured blog loop ------------------------>
 <section class="padded">
 
     <div class="capped-width grid-center">
 
-    <div class="col-12 padded-05 center margin-b-1">
-        <h2> Featured Posts </h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
-    </div>
+        <div class="col-12 padded-05 center margin-b-1">
+            <h2> Featured Posts </h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
+        </div>
+
+<!------------------------ Featured blog loop reegular devices ------------------------>
+        <div class="hide-sm">
+            {% assign featured_posts = site.posts | where: 'featured', true %}
+
+            {% for post in featured_posts limit:3 %}
+
+                <div class="col-4 post-item padded-05">
+                    <div class="bg-image portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>
+                    <div class="padded-t-1">
+                        
+                        {% for item in post.categories %}
+                            <span class="tag"> {{item}} </span>
+                        {% endfor %}
+
+                        <h2 class="margin-t-1"> {{ post.title }} </h2>
+                        <p> {{ post.description }} </p>
+                        <a href="{{ post.url }}" class="subtle-button"> Read More </a>
+
+                    </div>
+                </div>
+
+            {% endfor %}
+
+        </div>
+<!------------------------ Featured blog loop sm devices ------------------------>
+        </div class="show-sm">
 
         {% assign featured_posts = site.posts | where: 'featured', true %}
 
-        {% for post in featured_posts limit:3 %}
+            {% for post in featured_posts limit:3 %}
 
-            <div class="col-4 post-item padded-05">
-                <div class="bg-image portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>
-                <div class="padded-t-1">
-                    
-                    {% for item in post.categories %}
-                        <span class="tag"> {{item}} </span>
-                    {% endfor %}
+                <div class="col-12 post-item padded">
+                    <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
+                    <div class="padded-t-1">
+                        
+                        {% for item in post.categories %}
+                            <span class="tag"> {{item}} </span>
+                        {% endfor %}
 
-                    <h2 class="margin-t-1"> {{ post.title }} </h2>
-                    <p> {{ post.description }} </p>
-                    <a href="{{ post.url }}" class="subtle-button"> Read More </a>
+                        <h2 class="margin-t-1"> {{ post.title }} </h2>
+                        <p> {{ post.description }} </p>
+                        <a href="{{ post.url }}" class="subtle-button"> Read More </a>
 
+                    </div>
                 </div>
-            </div>
 
-        {% endfor %}
+            {% endfor %}
 
+        </div>
     </div>
 
-    {% include slick-slider-home.html %}
-
 </section>
+
+{% include slick-slider-home.html %}
 
 
