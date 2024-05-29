@@ -16,6 +16,26 @@ $('.slider-container').slick({
 	fade: false, // Changes the animate from slide to fade if true
 	infinite: true, // When true, means that it will scroll in a circle
 	pauseOnHover: true, // When true means the autoplay pauses when hovering
-	pauseOnDotsHover: true // Pauses the autoplay when hovering over the dots
+	pauseOnDotsHover: true, // Pauses the autoplay when hovering over the dots
+	responsive: [
+		{
+		  breakpoint: 768,
+		  settings: {
+			arrows: true,
+			centerMode: true,
+			centerPadding: '40px',
+			slidesToShow: 2
+		  }
+		},
+		{
+		  breakpoint: 576,
+		  settings: {
+			arrows: true,
+			centerMode: true,
+			centerPadding: '40px',
+			slidesToShow: 1
+		  }
+		}
+	  ]
 });
 

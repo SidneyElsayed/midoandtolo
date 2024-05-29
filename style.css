@@ -675,6 +675,14 @@ hr.short.center {
 
   .tall-30-sm  { min-height: 30vh; }
 
+  .slider-container {
+    padding: 8%;
+  }
+
+  .slick-dots {
+    bottom: 0%;
+  }
+
 }
 
 /* ------- XS Media Query (36em / 576px) --------------- */ 
@@ -688,5 +696,9 @@ hr.short.center {
     .subtle-heading-xs {
       font-weight: 300;
       font-family: 'Martel', serif; 
+    }
+
+    .slick-dots {
+      bottom: -2%;
     }
 }
