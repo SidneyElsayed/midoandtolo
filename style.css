@@ -243,6 +243,10 @@ p:last-child {
   color: white;
 }
 
+.location-card a {
+  text-decoration: none;
+}
+
 .mido-text {
   font-family: "Shadows Into Light Two", cursive;
   font-weight: 400;
