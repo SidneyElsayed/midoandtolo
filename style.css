@@ -259,7 +259,7 @@ a:hover {
 
 p a {
     text-decoration: none;
-    border-bottom: 1px solid;
+    color: var(--medium-text)
 }
 
 p a:hover { 
