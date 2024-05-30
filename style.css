@@ -52,6 +52,8 @@ section { position: relative; }
 .padded-tb  { padding-top: 5%; padding-bottom: 5%; }
 .padded-lr  { padding-left: 5%; padding-right: 5%; }
 
+.padded-tb-5  { padding-top: 5rem; padding-bottom: 5rem; }
+
 .padded-t-1 { padding-top: 1rem; }
 .padded-b-1 { padding-bottom: 1rem; }
 .padded-l-1 { padding-left: 1rem; }
@@ -239,13 +241,6 @@ p:last-child {
 .text-xl        { font-size: 5rem; }
 .text-xxl       { font-size: 6rem; }
 
-.location-card {
-  color: white;
-}
-
-.location-card a {
-  text-decoration: none;
-}
 
 .mido-text {
   font-family: "Shadows Into Light Two", cursive;
@@ -554,6 +549,24 @@ display: block;
 }
 
 
+/* ------------ Location card styles  ----------------------- */
+.location-card-container a {
+  text-decoration: none;
+}
+
+.location-card {
+  color: white;
+  border-radius: 15px;
+}
+
+.location-card a {
+  text-decoration: none;
+}
+
+.location-card:hover {
+  box-shadow: 0 20px 25px -5px rgba(0,0,0,.2),0 10px 10px -5px rgba(0,0,0,.2)
+}
+
 
 /* ------------ Blogging elements  ----------------------- */
 
@@ -795,5 +808,13 @@ hr.short.center {
       right: 19%;
       top: -10rem;
       width: 250px;
+    }
+
+    .horizontal-scroll {
+      overflow-x: auto;
+      flex-wrap: nowrap;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      padding-bottom: 7%;
     }
 }
