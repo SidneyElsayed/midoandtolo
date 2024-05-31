@@ -616,14 +616,16 @@ display: block;
 
 /* Sidebar */
 .sidebar-item {
-  border: 2px solid var(--light);
+  /* border: 2px solid var(--light); */
   margin-bottom: 1rem;
-  color: var(--medium-text);
+  color: white;
 }
 
 .sidebar-item-us {
   margin-bottom: 1rem;
   color: var(--dark-text);
+  font-family: 'Mulish', serif; 
+  font-weight: 300;
 }
 
 .sidebar-item p {
@@ -663,6 +665,14 @@ hr.short.center {
 
 .curve-point-left {
   border-radius: 0px 100px 0px 100px;
+}
+
+.curve-point-right-sm {
+  border-radius: 15px 0px 15px 0px;
+}
+
+.curve-point-left-sm {
+  border-radius: 0px 15px 0px 15px;
 }
 
 .person-container {
