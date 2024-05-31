@@ -7,6 +7,9 @@
     <span id="close-cookie-banner"> X </span>
 </div>
 
+<!------------------- Google Analytics Script (external resource one) ------------------------->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1FSJP4BE0V"></script>
+
 <script>
     function createCookie(name,value,days) {
         var expires = "";
@@ -41,6 +44,15 @@
   
         runCookiedCodes()
         //removes cookies while testing 
+
+        // Google Analytics (initializing script)
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-1FSJP4BE0V');
+        </script>
 
         //eraseCookie('cookie-notice-accepted')
     } else {
