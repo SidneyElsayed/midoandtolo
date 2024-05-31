@@ -420,23 +420,27 @@ footer nav a    {
 /* ------------ Cookies Banner Styles  ----------------------- */
 #cookie-notice {
   padding: 0.5rem 1rem;
+  z-index: 2;
   display: none;
   text-align: center;
   position: fixed;
-  left: 1rem;
-  right: 1rem;
+  left: 1.5rem;
+  right: 1.5rem;
   bottom: 0;
-  width: calc(100% - 2rem);
+  width: calc(100% - 3rem);
   background: #222;
   color: rgba(255,255,255,0.8);
+  font-family: inherit;
+  line-height: 1.4rem;
 }
 #cookie-notice a {
   display: inline-block;
   cursor: pointer;
+  text-decoration: none;
   margin-left: 0.5rem;
 }
 #cookie-notice .button-subtle {
-opacity: 0.8;
+opacity: 0.5;
 }
 #close-cookie-banner {
 padding: 1rem;
