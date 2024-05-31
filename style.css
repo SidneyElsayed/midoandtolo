@@ -722,6 +722,14 @@ hr.short.center {
     width: 250px;
   }
 
+  .horizontal-scroll {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 7%;
+  }
+
 }
 
 /* ------- SM Media Query (48em / 768px) --------------- */ 
@@ -810,11 +818,4 @@ hr.short.center {
       width: 250px;
     }
 
-    .horizontal-scroll {
-      overflow-x: auto;
-      flex-wrap: nowrap;
-      padding-left: 1rem;
-      padding-right: 1rem;
-      padding-bottom: 7%;
-    }
 }
