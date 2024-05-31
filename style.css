@@ -776,7 +776,8 @@ hr.short.center {
   .sm-portrait      { padding-bottom: 125%; }
   .sm-square        { padding-bottom: 100%; }
 
-
+  .tall-50-sm  { min-height: 50vh; }
+  .tall-40-sm  { min-height: 40vh; }
   .tall-30-sm  { min-height: 30vh; }
 
   .slider-container {
