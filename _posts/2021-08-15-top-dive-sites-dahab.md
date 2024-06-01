@@ -13,7 +13,7 @@ categories:
   - travel
 destinations:
   - egypt
-featured_image: /uploads/midoandtolo-36.jpg
+featured_image: /uploads/midoandtolo-164.jpg
 seo:
   title: Top 5 Favorite Dives Sites in Dahab
   description: >-
@@ -31,7 +31,7 @@ _comments:
 
 While Dahab is famous (if not infamous) for the Blue Hole, there is so much more to see than that one site.
 
-&nbsp;![Sidney diving in Dahab, Egypt](/uploads/midoandtolo-36.jpg)
+![Sidney diving in Dahab, Egypt](/uploads/midoandtolo-36.jpg)
 
 ## 1\. Islands
 
