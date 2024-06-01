@@ -481,8 +481,24 @@ opacity: 0.5
 /* ------------  Images ----------------------- */
 .bg-image-logo-light { background-image: url('/images/mido-tolo-white-logo.png'); }
 .bg-image-logo-color-b { background-image: url('/images/mido-tolo-color-logo-b.png'); }
-.mido-square { background-image: url('/images/Mido-square.jpg'); }
-.tolo-square { background-image: url('/images/dubai-sunglasses-square.jpg'); }
+.mido-square { 
+  background-image: url('/images/Mido-square.jpg'); 
+  background-size: cover;
+  background-position: center; 
+  background-repeat: no-repeat;
+}
+.tolo-square { 
+  background-image: url('/images/dubai-sunglasses-square.jpg');
+  background-size: cover;
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
+.zouz-square { 
+  background-image: url('/images/midoandtolo-zouz-square.jpeg');
+  background-size: cover;
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
 .raptor-zouz-beach-img { background-image: url('/images/midoandtolo-100.jpg'); }
 .mido-beach-camera-img { 
   background-image: url('/images/midoandtolo-5.jpg'); 
@@ -605,6 +621,7 @@ display: block;
 }
 
 
+
 /* ------------ Blogging elements  ----------------------- */
 
 
@@ -724,7 +741,17 @@ hr.short.center {
 }
 
 
+/* ------------ Overlay icon styles  ----------------------- */
+.overlay-icon {
+  position: absolute;
+  color: white;
+  left: 1.5rem;
+  top: 1.2rem;
+}
 
+.shadow-hover:hover {
+  box-shadow: 0 20px 25px -5px rgba(0,0,0,.2),0 10px 10px -5px rgba(0,0,0,.2)
+}
 
 
 
