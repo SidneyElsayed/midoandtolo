@@ -1,25 +1,27 @@
-seo: 
+seo:
   site_name: Mido and Tolo
   title: Mido and Tolo
-  description: We’re Ahmed and Sidney, just a couple of big kids sharing their adventures and showing that travel can be accessible.
+  description: >-
+    We’re Ahmed and Sidney, just a couple of big kids sharing their adventures
+    and showing that travel can be accessible.
   keywords: accessible travel, adventure couple
-  social_image: 
+  social_image:
   author: Sidney
-  favicon_image: 
-social: 
+  favicon_image:
+social:
   instagram_username: midoandtolo
-  facebook_url:
-  twitter_username: 
-design: 
-  dark-text_color: '#023047' 
-  medium-text_color: '#219EBC'
-  light-text_color: '#8ECAE6'
-  featured-text_color: '#FFB703'
+  facebook_url: https://www.facebook.com/profile.php?id=61560200198887&sk=about
+  twitter_username:
+design:
+  dark-text_color: '#023047'
+  medium-text_color: '#219ebc'
+  light-text_color: '#8ecae6'
+  featured-text_color: '#ffb703'
   dark_color: '#023047'
-  medium_color: '#219EBC'
-  medium-o_color: '#9BCEDE'
-  light_color: '#8ECAE6'
+  medium_color: '#219ebc'
+  medium-o_color: '#9bcede'
+  light_color: '#8ecae6'
   v-light_color: '#f9f9f9'
-  featured_color: '#FFB703'
-  featured-o_color: '#FFDA97'
-  accent_color: '#FB8500'
+  featured_color: '#ffb703'
+  featured-o_color: '#ffda97'
+  accent_color: '#fb8500'

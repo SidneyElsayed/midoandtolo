@@ -19,9 +19,7 @@ seo:
     keywords:
     hide-from-google: false
 ---
-##### Everyone in the family has a name. Well that might sound obvious, but not when you realize who and what is considered part of the family.
-
-&nbsp;
+##### Everyone in the family has a name. Well that might sound obvious, but not when you realize who and what is considered part of the family.&nbsp;
 
 ## **![Mido walking through rice fields in Bali](/uploads/midoandtolo-22.jpg)Mido**
 
