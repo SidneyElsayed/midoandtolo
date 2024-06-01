@@ -23,7 +23,7 @@ seo:
 
 ## **![Mido walking through rice fields in Bali](/uploads/midoandtolo-22.jpg)Mido**
 
-Don’t let the big hair fool you, there are plenty of secrets hidden in that head of his. Ahmed is a mastermind of social media, paid campaign wiz and all-around marketing genius – the real fun is in the journey. From his start as real-life ‘Scuba Steve’ to helping put Saudi on the map as an international travel destination, I’m convinced there’s nothing this man can’t do.
+Don’t let the big hair fool you, there are plenty of secrets hidden in that head of his. Ahmed is a mastermind of social media, paid campaign wiz and all-around marketing genius – but the real fun is in the journey. From his start as real-life ‘Scuba Steve’ to helping put Saudi on the map as an international travel destination, I’m convinced there’s nothing this man can’t do.
 
 ![Sidney in Santorini, Greece](/uploads/midoandtolo-62.jpg)
 
