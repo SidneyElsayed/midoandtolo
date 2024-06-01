@@ -78,5 +78,43 @@ _inputs:
       strike: true
       image: true
     cascade: true
+_editables:
+  text:
+    allow_custom_markup: false
+    remove_custom_markup: false
+    bold: true
+    copyformatting: true
+    italic: true
+    link: true
+    paths:
+      uploads:
+      uploads_filename:
+      uploads_use_relative_path:
+      static:
+      dam_uploads:
+      dam_uploads_filename:
+      dam_static:
+    redo: true
+    removeformat: true
+    strike: true
+    subscript: true
+    superscript: true
+    underline: true
+    undo: true
+  image:
+    expandable: true
+    height: 0
+    image_size_attributes: true
+    mime_type:
+    paths:
+      uploads:
+      uploads_filename:
+      uploads_use_relative_path:
+      static:
+      dam_uploads:
+      dam_uploads_filename:
+      dam_static:
+    resize_style: contain
+    width:
 data_config: {}
 timezone: Africa/Cairo
