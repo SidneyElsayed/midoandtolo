@@ -12,7 +12,7 @@ categories:
     - travel
 featured_image: /uploads/midoandtolo-13.jpg
 seo:
-    title: Cairo to Cambodia
+    title: Cairo to Cambodia | Blog | midoandtolo
     description: >-
         While outwardly Cairo and Cambodia are nothing like each other, find the
         comparisons I draw between two places I've called home.

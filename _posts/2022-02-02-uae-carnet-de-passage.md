@@ -13,7 +13,7 @@ categories:
     - travel
 featured_image: /https:/source.unsplash.com/midoandtolo-20.jpg
 seo:
-    title: Carnet de Passage registration in UAE
+    title: Carnet de Passage registration in UAE | Blog | midoandtolo
     description: >-
         Find out exactly how and where to get your Carnet de Passage in Dubai
         for overland travel in the GCC.

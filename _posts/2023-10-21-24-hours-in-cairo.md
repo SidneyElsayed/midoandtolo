@@ -16,7 +16,7 @@ destinations:
     - egypt
 featured_image: /uploads/midoandtolo-47.jpg
 seo:
-    title: 24 hours in Cairo
+    title: 24 hours in Cairo | Blog | midoandtolo
     description: >-
         If you’ve only got a day to do see Cairo, this 24-hour itinerary is for
         you. This day is for Cairo, the living, breathing, life of the city.

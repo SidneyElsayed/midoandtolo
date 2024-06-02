@@ -11,7 +11,7 @@ categories:
     - life
 featured_image: /uploads/midoandtolo-11.jpg
 seo:
-    title: Meet the Gang
+    title: Meet the Gang | Blog | midoandtolo
     description: >-
         Everyone in the family has a name. Well that might sound obvious, but
         not when you realize who and what is considered part of the family.

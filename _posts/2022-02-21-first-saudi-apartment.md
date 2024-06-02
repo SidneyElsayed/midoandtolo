@@ -12,7 +12,7 @@ categories:
   - saudi arabia
 featured_image: /uploads/midoandtolo-80.jpg
 seo:
-  title: Our first Saudi apartment
+  title: Our first Saudi apartment | Blog | midoandtolo
   description: >-
     A real-life look at moving to a new place in Saudi Arabia, and remembering
     that even when things aren't as you'd hoped, there's still something to

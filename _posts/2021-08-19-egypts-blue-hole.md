@@ -13,7 +13,7 @@ categories:
     - travel
 featured_image: /uploads/midoandtolo-36.jpg
 seo:
-    title: Egypt's Blue Hole
+    title: Egypt's Blue Hole | Blog | midoandtolo
     description: >-
         One of only around 10 of the planet’s “Blue Holes,” the Egyptian version
         just might be the best. 

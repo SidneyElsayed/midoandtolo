@@ -12,7 +12,7 @@ categories:
     - saudi arabia
 featured_image: /uploads/midoandtolo-103.jpg
 seo:
-    title: Getting to AlUla
+    title: Getting to AlUla | Blog | midoandtolo
     description: >-
         Find the best information on getting AlUla, Saudi Arabia – from which
         airport to fly into, visa and immigration information, and more.

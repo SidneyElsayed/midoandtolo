@@ -15,7 +15,7 @@ destinations:
   - egypt
 featured_image: /uploads/midoandtolo-164.jpg
 seo:
-  title: Top 5 Favorite Dives Sites in Dahab
+  title: Top 5 Favorite Dives Sites in Dahab | Blog | midoandtolo
   description: >-
     See the top 5 dive sites for Dahab, Egypt – one of the top dive destinations
     in the world. 

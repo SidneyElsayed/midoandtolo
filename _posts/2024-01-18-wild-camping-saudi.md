@@ -12,7 +12,7 @@ categories:
     - overland
 featured_image: /uploads/midoandtolo-25.jpg
 seo:
-    title: Road Trips & Wild Camping in Saudi
+    title: Road Trips & Wild Camping in Saudi | Blog | midoandtolo
     description: >-
         Embedded in the culture, overland travel is safe and easy – arguably the
         best way to experience Saudi.
