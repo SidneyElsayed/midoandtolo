@@ -15,8 +15,9 @@ destinations:
 featured_image: /uploads/midoandtolo-14.jpg
 seo:
     title: Origin Story | Blog | midoandtolo
-    description: In a hippie beach town in Egypt, Ahmed met Sidney. Read the full love story
-    and learn how it's been Mido and Tolo ever since.
+    description: >-
+        In a hippie beach town in Egypt, Ahmed met Sidney. Read the full love story
+        and learn how it's been Mido and Tolo ever since.
     social_image:
     keywords:
     hide-from-google: false
