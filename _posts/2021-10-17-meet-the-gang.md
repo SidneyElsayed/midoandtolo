@@ -21,7 +21,7 @@ seo:
 ---
 ##### Everyone in the family has a name. Well that might sound obvious, but not when you realize who and what is considered part of the family.&nbsp;
 
-## **![Mido walking through rice fields in Bali](/uploads/midoandtolo-22.jpg)Mido**
+## **![Mido walking through rice fields in Bali](/uploads/square-midoandtolo-22.jpg){: width="1176" height="1176"}Mido**
 
 Don’t let the big hair fool you, there are plenty of secrets hidden in that head of his. Ahmed is a mastermind of social media, paid campaign wiz and all-around marketing genius – but the real fun is in the journey. From his start as real-life ‘Scuba Steve’ to helping put Saudi on the map as an international travel destination, I’m convinced there’s nothing this man can’t do.
 
