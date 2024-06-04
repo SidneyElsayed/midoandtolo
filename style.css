@@ -507,6 +507,10 @@ opacity: 0.5
   background-position: center; 
   background-repeat: no-repeat; 
 }
+
+.tolo-greece-sqaure { background-image: url('/images/square-midoandtolo-62.jpeg'); }
+.mido-bali-square { background-image: url('/images/square-midoandtolo-22.jpg'); }
+
 .raptor-zouz-beach-img { background-image: url('/images/midoandtolo-100.jpg'); }
 .mido-beach-camera-img { 
   background-image: url('/images/midoandtolo-5.jpg'); 
