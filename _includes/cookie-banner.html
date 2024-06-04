@@ -8,8 +8,9 @@
 </div>
 
 <!------------------- Google Analytics Script (external resource one) ------------------------->
-<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-1FSJP4BE0V"></script> -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1FSJP4BE0V"></script>
 
+<!-- cookie script -->
 <script>
     function createCookie(name,value,days) {
         var expires = "";
@@ -37,6 +38,14 @@
     function runCookiedCodes() {
               // Add tracking scripts here 
               console.log("cookies ran")
+              
+             // GA tracking without the script tag
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-1FSJP4BE0V');
+
         // End tracking scripts 
     }
   

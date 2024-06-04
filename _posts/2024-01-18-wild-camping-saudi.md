@@ -24,12 +24,10 @@ One of our favorite things since moving to Saudi is wild camping – which is ju
 
 &nbsp;
 
-![Mido driving our Ford Raptor through Saudi](/uploads/midoandtolo-26.jpg)![Our nighttime setup for wild camping, including fairy lights](/uploads/midoandtolo-27.jpg)![Our Ford Raptor parked on the beach at sunset in the Farasan Islands, Saudi Arabia](/uploads/midoandtolo-25.jpg)
+![Mido driving our Ford Raptor through Saudi](/uploads/midoandtolo-26.jpg){: .one-third-image width="3182" height="3181"}![Our nighttime setup for wild camping, including fairy lights](/uploads/midoandtolo-27.jpg){: .one-third-image width="3182" height="3181"}![Our Ford Raptor parked on the beach at sunset in the Farasan Islands, Saudi Arabia](/uploads/midoandtolo-25.jpg){: .one-third-image width="3182" height="3181"}
 
 It’s also a huge part of the culture. Traditionally a nomadic people and home to the famous Incense Road, it’s in Saudi nature to travel long distances and explore. When most cities are at least hundreds of kilometers (or hundreds of miles) away, road trips of a few hours start to feel like nothing. Even the Tolo parents agreed to a road trip from AlUla to Yanbu (and Mama Kathy doesn’t do road trips).
 
-![Sunset view from the side mirror of our Ford Raptor](/uploads/midoandtolo-99.jpg)![Raptor and ZouZou sit on the beach in Saudi](/uploads/midoandtolo-100.jpg)
-
-![ZouZou wakes up in the truck bed of Raptor](/uploads/midoandtolo-105.jpg)
+![Sunset view from the side mirror of our Ford Raptor](/uploads/midoandtolo-99.jpg){: .one-third-image width="3182" height="3181"}![Raptor and ZouZou sit on the beach in Saudi](/uploads/midoandtolo-100.jpg){: .one-third-image width="3182" height="3181"}![ZouZou wakes up in the truck bed of Raptor](/uploads/midoandtolo-105.jpg){: .one-third-image width="3182" height="3181"}
 
 And on the flip side, Saudis are so welcoming to anyone passing through. While on the road, we’ve been invited to houses for a meal countless times and been given dates, homemade sweets, Saudi coffee and more. Many are curious to hear what we think of the country and the culture and are just generally so excited to see foreigners enjoying their country.
