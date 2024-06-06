@@ -43,7 +43,7 @@ Saudi-born rescue pup, ZouZou is just ZouZou – we don’t know the breed, nor 
 
 ## **Raptor**
 
-Big boy Raptor is a silver 2014 Ford Raptor. He joined the fam just before we took off on the first epic road trip from Dubai to AlUla, when we were in need of a true adventure car. (The little Kia rental just couldn’t cut it.) Two years in, he’s racked up over 40,000km (almost 25,000 miles).
+Big boy Raptor is a silver 2014 Ford Raptor. He joined the fam just before we took off on the first epic road trip from Dubai to AlUla, when we were in need of a true [adventure car](https://midoandtolo.com/posts/2024/wild-camping-saudi "Road Trips &amp; Wild Camping in Saudi"). (The little Kia rental just couldn’t cut it.) Two years in, he’s racked up over 40,000km (almost 25,000 miles).
 
 ![Charlie with Dahabian street art](/images/square-midoandtolo-173.jpeg){: .float-right-image width="1185" height="1185"}
 
