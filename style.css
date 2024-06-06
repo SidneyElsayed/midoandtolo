@@ -558,6 +558,18 @@ opacity: 0.5
   display: inline-block;
 }
 
+p.two-image-grid img {
+  display: inline-block;
+  width: calc(50% - 1rem);
+  margin: 0.5rem;
+}
+
+p.three-image-grid img {
+  display: inline-block;
+  width: calc(33% - 1rem);
+  margin: 0.5rem;
+}
+
 /* White border for adding space to the bg-image */
 .border-xs { border: 2px solid white;}
 .border-sm { border: 1rem solid white;}

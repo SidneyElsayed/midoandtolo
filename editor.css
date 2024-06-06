@@ -35,6 +35,10 @@ img.small-centered-image {
     margin: auto;
 }
 
+p.two-image-grid {
+    letter-spacing: initial;
+}
+
 
 @media(max-width: 767px) {
     .float-right-image, 
@@ -43,3 +47,5 @@ img.small-centered-image {
       width: margin 0 1rem;
     }
 }
+
+
