@@ -558,6 +558,12 @@ opacity: 0.5
   display: inline-block;
 }
 
+.logo-img-explore {
+  padding: 0.5rem;
+  display: inline-block;
+  max-width: 100%;
+}
+
 p.two-image-grid img {
   display: inline-block;
   width: calc(50% - 1rem);
@@ -769,11 +775,35 @@ hr.short.center {
   display: block;
   padding: 0.5rem;
   margin-bottom: 0.5rem;
-  border: 1px solid white;
+  color: white;
+  background-color: var(--featured);
 }
 
+.explore-page a:hover {
+  display: block;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  color: var(--featured);
+  border: 1px solid var(--featured);
+  background-color: white;
+}
 
+.explore-page .featured {
+  display: block;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  color: white;
+  background-color: var(--medium);
+}
 
+.explore-page .featured:hover {
+  display: block;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  color: var(--medium);
+  border: 1px solid var(--medium);
+  background-color: white;
+}
 
 
 
