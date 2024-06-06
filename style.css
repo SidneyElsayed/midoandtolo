@@ -773,16 +773,17 @@ hr.short.center {
 /* ------------ Explore Page styles  ----------------------- */
 .explore-page a {
   display: block;
-  padding: 0.5rem;
-  margin-bottom: 0.5rem;
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
   color: white;
   background-color: var(--featured);
+  border: 1px solid var(--featured);
 }
 
 .explore-page a:hover {
   display: block;
-  padding: 0.5rem;
-  margin-bottom: 0.5rem;
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
   color: var(--featured);
   border: 1px solid var(--featured);
   background-color: white;
@@ -790,16 +791,17 @@ hr.short.center {
 
 .explore-page .featured {
   display: block;
-  padding: 0.5rem;
-  margin-bottom: 0.5rem;
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
   color: white;
   background-color: var(--medium);
+  border: 1px solid var(--medium);
 }
 
 .explore-page .featured:hover {
   display: block;
-  padding: 0.5rem;
-  margin-bottom: 0.5rem;
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
   color: var(--medium);
   border: 1px solid var(--medium);
   background-color: white;
