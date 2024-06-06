@@ -19,13 +19,20 @@ collections_config:
   posts:
     path: _posts
     output: true
+    description: ''
     icon: notes
+    _editables:
+    _enabled_editors:
+    _inputs:
+    _select_data:
+    _structures:
     create:
       path: >-
         [relative_base_path]/{date|year}-{date|month}-{date|day}-{title|slugify}.[ext]
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+    schemas:
   pages:
     path: ''
     output: true
