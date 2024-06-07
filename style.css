@@ -522,11 +522,17 @@ opacity: 0.5
 .terrace-view-img { background-image: url('/images/midoandtolo-17.jpg'); }
 .mido-red-sea-sunset-img { background-image: url('/images/midoandtolo-4.jpg'); }
 .mount-batur-img { background-image: url('/images/midoandtolo-23.jpg'); }
-.zouz-rijal-almaa-car-img { background-image: url('/images/midoandtolo-30.jpg'); }
+.zouz-rijal-almaa-car-img { 
+  background-image: url('/images/midoandtolo-30.jpg'); 
+  background-position: 50% 53%;
+}
 .zouz-rijal-almaa-img { background-image: url('/images/midoandtolo-32.jpg'); }
 .mido-driving-rijal-almaa-img { background-image: url('/images/midoandtolo-33.jpg'); }
 .bb-zouz-car-img { background-image: url('/images/midoandtolo-33.jpg'); }
-.zouz-raptor-window-img { background-image: url('/images/midoandtolo-52.jpg'); }
+.zouz-raptor-window-img { 
+  background-image: url('/images/midoandtolo-52.jpg'); 
+  background-position: 50% 38%;
+}
 .red-sea-sunset-img { background-image: url('/images/midoandtolo-54.jpg'); }
 .the-house-img { background-image: url('/images/midoandtolo-58.jpg'); }
 .mido-tolo-balloon-img { background-image: url('/images/midoandtolo-59.jpg'); }
@@ -539,7 +545,8 @@ opacity: 0.5
 .mido-basata-img { background-image: url('/images/midoandtolo-140.jpg'); }
 .mido-bali-img { background-image: url('/images/midoandtolo-22.jpg'); }
 .tolo-greece-img { background-image: url('/images/midoandtolo-62.jpg'); }
-.mido-zouz-balloon--img { background-image: url('/images/mido-zouz-balloon.jpg'); }
+.mido-zouz-balloon-img { background-image: url('/images/mido-zouz-balloon.jpg'); }
+.date-palms-img { background-image: url('/uploads/midoandtolo-80.jpg'); }
 .mido-tolo-balloon-img { 
   background-image: url('/images/midoandtolo-74.jpg'); 
   background-position: 50% 73%;

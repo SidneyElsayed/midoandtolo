@@ -28,7 +28,7 @@
       </div>
 
       <div class="dropdown">
-        <span class="dropdown-title uppercase"> Categories </span>
+        <a href="/category-archive.html"><span class="dropdown-title uppercase"> Categories </span></a>
         <div class="dropdown-content">
           {% for cat in site.archives %}
           {% unless cat.location == true %}
@@ -61,7 +61,8 @@
   
   <div class="mobile-menu hover-white"> 
     <nav> 
-      <a href="/blog" class="uppercase"> Blog </a>
+      <a href="/blog" class="uppercase"> Latest Posts </a>
+      <a href="/category-archive.html" class="uppercase"> Categories </a>
       <a href="/blog-archive" class="uppercase"> Archive </a>
       <a href="/about.html" class="uppercase"> About </a>
       <a href="/contact.html" class="uppercase"> Contact </a>

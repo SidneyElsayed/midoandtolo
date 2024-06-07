@@ -11,10 +11,15 @@ seo:
   keywords:
   hide-from-google: true
 ---
-<!------------------------ Split blog loop (part 1) ------------------------>
-
-<div class="grid-spaceBetween location-card-container tall-40 padded margin-b-1">
-    <div class="col-8 padded-05">
-        <a href="/saudi-arabia"><div class="bg-image location-card padded-tb-5 the-house-img"><h3 class="tolo-text text-lg center">Saudi</h3></div></a>
-    </div>
-</div>
+<!------------------------ Location cards category page ------------------------>
+<section class="padded capped-width-narrow">
+  {% for cat in site.archives %}
+  {% unless cat.location == true %}
+  <div class="grid-middle padded-1 location-card-container tall-40 margin-b-1">
+      <div class="col-12 padded-tb-0">
+          <a href="{{cat.url}}"><div class="bg-image location-card padded-tb-5" style="background-image:url( '{{ cat.featured_image }}' );"><h3 class="tolo-text text-lg center">{{cat.category}}</h3></div></a>
+      </div>
+  </div>
+  {% endunless %}
+  {% endfor %}
+</section>
