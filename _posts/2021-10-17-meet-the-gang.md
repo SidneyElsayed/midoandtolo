@@ -9,7 +9,7 @@ read: 2 min
 featured: true
 categories:
     - life
-featured_image: /uploads/midoandtolo-11.jpg
+featured_image: /images/mido-zouz-balloon.jpg
 seo:
     title: Meet the Gang | Blog | midoandtolo
     description: >-
