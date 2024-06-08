@@ -327,6 +327,15 @@ nav a:hover {
   color: var(--featured-text);
 }
 
+header nav a {
+  border-bottom: 2px solid white;
+}
+
+header nav a:hover {
+  color: var(--featured-text);
+  border-bottom: 2px solid var(--featured-text);
+}
+
 .logo {
   text-decoration: none;
   font-size: 2.5rem;
@@ -707,11 +716,19 @@ display: block;
 
 
 /* Comments section */
+#comment-policy {
+  font-family: 'Mulish', serif;
+}
+
 #reactions {
   display: none;
 }
 
 .reactions-refresh {
+  display: none;
+}
+
+.reaction-items {
   display: none;
 }
 
