@@ -11,6 +11,7 @@ categories:
   - life
   - saudi arabia
 featured_image: /uploads/midoandtolo-80.jpg
+comments: true
 seo:
   title: Our first Saudi apartment | Blog | midoandtolo
   description: >-
