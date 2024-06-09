@@ -33,7 +33,7 @@ Supposing you also have a valid visa to travel to these countries, you’re allo
 
 ## What should I bring?
 
-You’ll need your Emirates ID and the car registration. Note that the car has to be under your name and you have to be the one to cross with it. We also brought our passports and driver’s license and copies of everything just in case, but didn’t need it.
+You’ll need your Emirates ID and the car registration. Note that the car has to be under your name and you have to be the one to cross with it. We also brought our passports and driver’s licenses and copies of everything just in case, but didn’t need it.
 
 ## The Process:
 
