@@ -29,7 +29,7 @@ It’s like a passport for your car. It shows that you are the owner of the car 
 
 ## Where can I go with my UAE Carnet de Passage?
 
-Supposing you also have a valid visa to travel to these countries, you’re allow to enter Saudi Arabia, Oman, Qatar, Bahrain, Kuwait and Iraq (but specifically not Egypt, Jordan, Syria, Lebanon or Yemen).
+Supposing you also have a valid visa to travel to these countries, you’re allowed to enter Saudi Arabia, Oman, Qatar, Bahrain, Kuwait and Iraq (but specifically not Egypt, Jordan, Syria, Lebanon or Yemen).
 
 ## What should I bring?
 
