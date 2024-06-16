@@ -27,7 +27,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-## Top 5 Favorite Dives Sites in Dahab 
+## With over 30 sites in Dahab, check out our top picks
 
 While Dahab is famous (if not infamous) for the Blue Hole, there is so much more to see than that one site.
 
