@@ -23,7 +23,9 @@ seo:
         community
     hide-from-google: false
 ---
-### **How Saudi Arabia entices expats**
+# Stories and Advice from AlUla
+
+### **A long-time lucrative move for expats**
 
 Saudi Arabia has been an interesting spot for expats for a while. Know as a place with high tax-free wages, the trade-off of compound life was worth it for a few years.
 
@@ -39,9 +41,9 @@ Because of it’s unique positioning, the city has almost doubled in size in the
 
 ### **Challenges and Triumphs**: Common obstacles and how to overcome them
 
-Language barrier: Most locals only speak Arabic or can be shy with their English. However, that’s not to say that no one speaks English. Many of the more touristic restaurants have Filipino staff, and those in the city centre are used to seeing expats by now. Learning a few phrases in Arabic goes a long way, and when in doubt, there’s always google translate.
+**Language barrier:** Most locals only speak Arabic or can be shy with their English. However, that’s not to say that no one speaks English. Many of the more touristic restaurants have Filipino staff, and those in the city centre are used to seeing expats by now. Learning a few phrases in Arabic goes a long way, and when in doubt, there’s always google translate.
 
-Cultural differences: Saudis are very family oriented people. They’re also so generous and helpful. There’s a mindset shift if you’re coming from the west and think people are close minded here. Rather, people like to give privacy to families, as a family unit is a sacred, safe space. The reason there are family sections in restaurants and closed rooms for each family is so that the women can uncover. But if you see a family on a picnic, they’ll almost always invite you over, give you dates, coffee and homemade snacks. Just be open-minded and remember you’re ultimately a visitor in their space.
+**Cultural differences:** Saudis are very family oriented people. They’re also so generous and helpful. There’s a mindset shift if you’re coming from the west and think people are close minded here. Rather, people like to give privacy to families, as a family unit is a sacred, safe space. The reason there are family sections in restaurants and closed rooms for each family is so that the women can uncover. But if you see a family on a picnic, they’ll almost always invite you over, give you dates, coffee and homemade snacks. Just be open-minded and remember you’re ultimately a visitor in their space.
 
 ### **Community and Support**: Finding and creating expat networks
 
@@ -49,11 +51,11 @@ WhatsApp communities are king here in AlUla. There’s a massive “AlUla Life &
 
 ### **Day-to-Day Life**: Routine and lifestyle adjustments
 
-Grocery shopping: There is no big supermarket in AlUla, rather a few larger family-run grocery stores, a huge fruit and veg market and a couple local butchers. Because of the expat community, you will find some things that stick out – like an organic section of dried goods, with easy access to chia seeds, flax seeds, quinoa and more. You’ll quickly learn where to get what, and I’ve found a new appreciation for buying smaller quantities of fresh food.
+**Grocery shopping:** There is no big supermarket in AlUla, rather a few larger family-run grocery stores, a huge fruit and veg market and a couple local butchers. Because of the expat community, you will find some things that stick out – like an organic section of dried goods, with easy access to chia seeds, flax seeds, quinoa and more. You’ll quickly learn where to get what, and I’ve found a new appreciation for buying smaller quantities of fresh food.
 
-No alcohol: As someone who drank a lot of beer and wine before moving to Saudi, this was an adjustment, but definitely one for the better. With alcohol just not being an option, you end up finding fun in other things. There are times I miss a good sundowner and there is talk of alcohol being available in hotels in the near-ish future, but for now life looks a lot more dry.
+**No alcohol:** As someone who drank a lot of beer and wine before moving to Saudi, this was an adjustment, but definitely one for the better. With alcohol just not being an option, you end up finding fun in other things. There are times I miss a good sundowner and there is talk of alcohol being available in hotels in the near-ish future, but for now life looks a lot more dry.
 
-Slower pace of life: Going from a mega-city like Dubai, to AlUla had us doing a 180. Skyscrapers were swapped with stars and deliveroo was traded for picking fresh herbs from the farm. Fresh air fills your lungs and serenity soaks into your soul. While some people still go back to Dubai every other weekend, we actually enjoy it here in AlUla and relish the time we get to just be.
+**Slower pace of life:** Going from a mega-city like Dubai, to AlUla had us doing a 180. Skyscrapers were swapped with stars and deliveroo was traded for picking fresh herbs from the farm. Fresh air fills your lungs and serenity soaks into your soul. While some people still go back to Dubai every other weekend, we actually enjoy it here in AlUla and relish the time we get to just be.
 
 ### **Conclusion**: Reflecting on the expat journey and its rewards
 
