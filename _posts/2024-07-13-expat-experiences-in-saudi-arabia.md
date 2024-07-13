@@ -10,7 +10,7 @@ featured: true
 categories:
     - life
     - saudi arabia
-featured_image: /uploads/midoandtolo-182.jpg
+featured_image: /uploads/midoandtolo-1.jpg
 seo:
     title: Expat Experiences in Saudi Arabia | Blog | midoandtolo
     description: >-
@@ -42,6 +42,7 @@ AlUla is the flagship tourist destination of Saudi Arabia. Unlike Neom, it’s a
 Because of it’s unique positioning, the city has almost doubled in size in the past 5 years with most of the newcomers being expats. Big welcome packages from organizations looking to hire are dwindling because people *want* to come here now.
 
 ### **Challenges and Triumphs**: Common obstacles and how to overcome them
+
 ![Mido and our dog, ZouZou, hiking in AlUla](/uploads/square-midoandtolo-195.jpg){: .float-left-image width="1176" height="1176"}
 
 **Language barrier:** Most locals only speak Arabic or can be shy with their English. However, that’s not to say that no one speaks English. Many of the more touristic restaurants have Filipino staff, and those in the city centre are used to seeing expats by now. Learning a few phrases in Arabic goes a long way, and when in doubt, there’s always google translate.
@@ -62,7 +63,7 @@ WhatsApp communities are king here in AlUla. There’s a massive “AlUla Life &
 
 ![A bowl of freshly picked arugala from the farm](/uploads/square-midoandtolo-191.jpg){: .float-left-image width="1176" height="1176"}
 
- you end up finding fun in other things. There are times I miss a good sundowner and there is talk of alcohol being available in hotels in the near-ish future, but for now life looks a lot more dry.
+you end up finding fun in other things. There are times I miss a good sundowner and there is talk of alcohol being available in hotels in the near-ish future, but for now life looks a lot more dry.
 
 **Slower pace of life:** Going from a mega-city like Dubai, to AlUla had us doing a 180. Skyscrapers were swapped with stars and deliveroo was traded for picking fresh herbs from the farm. Fresh air fills your lungs and serenity soaks into your soul. While some people still go back to Dubai every other weekend, we actually enjoy it here in AlUla and relish the time we get to just be.
 
