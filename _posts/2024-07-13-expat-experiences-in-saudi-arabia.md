@@ -10,7 +10,7 @@ featured: true
 categories:
     - life
     - saudi arabia
-featured_image: /uploads/midoandtolo-13.jpg
+featured_image: /uploads/midoandtolo-182.jpg
 seo:
     title: Expat Experiences in Saudi Arabia | Blog | midoandtolo
     description: >-
