@@ -9,7 +9,6 @@ author: Sidney
 read: 5 min
 featured: false
 categories:
-    - life
     - saudi arabia
     - travel
 featured_image: /uploads/midoandtolo-189.jpg
