@@ -6,7 +6,7 @@ description: >-
     tips for Saudi Arabia with our travel blog; including what to pack, driving
     tips and more.
 author: Sidney
-read: 5 min
+read: 3 min
 featured: false
 categories:
     - saudi arabia
