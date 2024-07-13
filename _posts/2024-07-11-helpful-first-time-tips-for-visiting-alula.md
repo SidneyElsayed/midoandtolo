@@ -30,7 +30,7 @@ That being said, I’ve come up with a few tips for visiting. Some might seem ob
 
 ## Your shoes will get dusty
 
-The desert is dusty. Obvious? This one gets first priority because it’s funny, but oh so very true. My shiny black boots are now permanently dust colored; same for others who unwittingly brought their nice, new shoes along for the adventure. People laugh when I tell them your things will all be AlUla-colored by the time you leave, but it’s true. Visiting any of the landmarks around AlUla, there will be sand around. Want to get close to the tombs at Hegra? Sand. Frame the perfect picture at Elephant Rock? Sand. Walk through Told Town? Sand. Even to take the iconic photo at the mirrored building, Maraya means walking through sand.
+The desert is dusty. Obvious? This one gets first priority because it’s funny, but oh so very true. My shiny black boots are now permanently dust colored; same for others who unwittingly brought their nice, new shoes along for the adventure. People laugh when I tell them your things will all be AlUla-colored by the time you leave, but it’s true. Visiting any of the landmarks around AlUla, there will be sand around. Want to get close to the tombs at Hegra? Sand. Frame the perfect picture at Elephant Rock? Sand. Walk through Old Town? Sand. Even to take the iconic photo at the mirrored building, Maraya means walking through sand.
 
 ***What to do about it:*** Know your shoes will get dusty and adjust. Bring a favorite worn-in pair for walking around. Plenty of ladies here still wear high heels, but I personally have no idea how. Comfortable trainers are also seen frequently, or a good dust colored something. Toms are our current go-to, because they’re also easy to wash.
 
