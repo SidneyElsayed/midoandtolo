@@ -23,7 +23,7 @@ seo:
         community
     hide-from-google: false
 ---
-# Stories and Advice from AlUla
+# *Stories and Advice from AlUla*
 
 ### **A long-time lucrative move for expats**
 
