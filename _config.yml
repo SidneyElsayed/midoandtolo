@@ -8,7 +8,8 @@ collections:
   destinations:
     output: true
     permalink: /:title
-    
+baseurl: ""
+url: "midoandtolo.com"
     
 _options:
   content:
