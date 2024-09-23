@@ -284,7 +284,9 @@ a:hover {
 
 p a {
     text-decoration: none;
-    color: var(--medium-text)
+    color: var(--medium-text);
+    font-weight: 700;
+    border-bottom: 2px solid;
 }
 
 p a:hover { 
@@ -703,10 +705,6 @@ display: block;
   font-weight: 200;
   font-size: 3rem;
   margin-top: 0.3rem;
-}
-
-.blog-content p {
-  line-height: 1.6;
 }
 
 .blog-content hr {
