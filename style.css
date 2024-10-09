@@ -501,6 +501,12 @@ opacity: 0.5
 /* ------------  Images ----------------------- */
 .bg-image-logo-light { background-image: url('/images/mido-tolo-white-logo.png'); }
 .bg-image-logo-color-b { background-image: url('/images/mido-tolo-color-logo-b.png'); }
+
+.checklist-ss { 
+  background-image: url('/images/camping-checklist-ss.png'); 
+  background-position: 50% 0%;
+}
+
 .mido-square { 
   background-image: url('/images/Mido-square.jpg'); 
   background-size: cover;
