@@ -46,3 +46,7 @@ You’re not done yet though. Just down the road is the [CARS Vehicle Testing Ce
 Now you’re ready to hit the road!
 
 ![ZouZou ready for her next road trip](/images/midoandtolo-52.jpg)
+
+<!------------------------ Camping checklist form ------------------------>
+
+<div class="ml-embedded" data-form="bxYIEG"></div>

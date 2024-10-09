@@ -32,3 +32,7 @@ It’s also a huge part of the culture. Traditionally a nomadic people and home 
 ![Sunset view from the side mirror of our Ford Raptor](/uploads/midoandtolo-99.jpg){: .one-third-image width="3182" height="3181"}![Raptor and ZouZou sit on the beach in Saudi](/uploads/midoandtolo-100.jpg){: .one-third-image width="3182" height="3181"}![ZouZou wakes up in the truck bed of Raptor](/uploads/midoandtolo-105.jpg){: .one-third-image width="3182" height="3181"}
 
 And on the flip side, Saudis are so welcoming to anyone passing through. While on the road, we’ve been invited to houses for a meal countless times and been given dates, homemade sweets, Saudi coffee and more. Many are curious to hear what we think of the country and the culture and are just generally so excited to see foreigners enjoying their country.
+
+<!------------------------ Camping checklist form ------------------------>
+
+<div class="ml-embedded" data-form="bxYIEG"></div>

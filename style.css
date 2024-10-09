@@ -804,6 +804,16 @@ hr.short.center {
   width: 250px;
 }
 
+/* ------------ Sidebar Newsletter Signup styles  ----------------------- */
+#ml-form-embed-newsletter img {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 0px;
+}
+
+#ml-form-embed-newsletter {
+  border-radius: 15px 0px 15px 0px;
+}
+
 /* ------------ Explore Page styles  ----------------------- */
 .explore-page a {
   display: block;
