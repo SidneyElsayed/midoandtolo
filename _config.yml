@@ -10,10 +10,6 @@ collections:
     permalink: /:title
 baseurl: ""
 url: "midoandtolo.com"
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
     
 _options:
   content:
