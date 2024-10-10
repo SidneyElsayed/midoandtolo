@@ -784,19 +784,19 @@ hr.short.center {
 
 /* ------------ About Us Styles  ----------------------- */
 .curve-point-right {
-  border-radius: 100px 0px 100px 0px;
+  border-radius: 100px 4px 100px 4px;
 }
 
 .curve-point-left {
-  border-radius: 0px 100px 0px 100px;
+  border-radius: 4px 100px 4px 100px;
 }
 
 .curve-point-right-sm {
-  border-radius: 15px 0px 15px 0px;
+  border-radius: 15px 4px 15px 4px;
 }
 
 .curve-point-left-sm {
-  border-radius: 0px 15px 0px 15px;
+  border-radius: 4px 15px 4px 15px;
 }
 
 .person-container {
@@ -813,11 +813,12 @@ hr.short.center {
 /* ------------ Sidebar Newsletter Signup styles  ----------------------- */
 #ml-form-embed-newsletter img {
   border-top-left-radius: 15px;
-  border-top-right-radius: 0px;
+  border-top-right-radius: 4px;
 }
 
-#ml-form-embed-newsletter {
-  border-radius: 15px 0px 15px 0px;
+#mlb2-18722046.ml-form-embedContainer {
+  border-radius: 15px 4px 15px 4px;
+  overflow: hidden;
 }
 
 /* ------------ Explore Page styles  ----------------------- */
