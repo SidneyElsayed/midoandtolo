@@ -799,6 +799,14 @@ hr.short.center {
   border-radius: 4px 15px 4px 15px;
 }
 
+.curve-point-right-sm-top {
+  border-radius: 15px 4px 0px 0px;
+}
+
+.curve-point-left-sm-top {
+  border-radius: 4px 15px 0px 0px;
+}
+
 .person-container {
   position: absolute;
   display: flex;
