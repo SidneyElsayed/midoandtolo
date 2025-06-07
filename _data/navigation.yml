@@ -1,28 +1,84 @@
 header-links:
   - text: Home
     url: /
-  - text: About
-    url: /about
-  - text: Blog
-    url: /blog
     sublinks:
-    - text: Travel & Lifestyle
+    - text: Latest Adventures
       url: /
-    - text: Food
+    - text: Saudi Living Highlights
       url: /
-    - text: Blog
+    - text: Popular Guides
+      url: /blog
+    - text: Newsletter Signup
+      url: /
+  - text: Saudi Living
+    url: /about
+    sublinks:
+    - text: Practical Guides
+      url: /
+    - text: Cultural Insights
+      url: /
+    - text: Expat Stories
+      url: /
+    - text: Life in AlUla
       url: /blog
     - text: Guides 
       url: /
+  - text: Adventures
+    url: /blog
+    sublinks:
+    - text: Road Trips
+      url: /
+    - text: Food
+      url: /
+    - text: Wild Camping
+      url: /blog
+    - text: Off-road Stories
+      url: /
+    - text: Weekend Getaways
+      url: /
+  - text: Travel Guides
+    url: /
+    sublinks:
+    - text: Destinations
+      url: /
+    - text: Food
+      url: /
+    - text: Food & Culture
+      url: /blog
+    - text: Photography Spots
+      url: /
+  - text: About
+    url: /
+    sublinks:
+    - text: Our Story
+      url: /
+    - text: The Gang
+      url: /
+  - text: Resources
+    url: /
+    sublinks:
+    - text: Free Guides
+      url: /
+    - text: Travel Tips
+      url: /
+    - text: Gear Review
+      url: /blog
   - text: Contact
-    url: /contact
+    url: /
+    sublinks:
+    - text: Work with Us
+      url: /
+    - text: Media Kit
+      url: /
+    - text: Get in Touch
+      url: /
 
 footer-links:
-  - heading: What we do
+  - heading: Latest Adventures
     links:
-    - text: Travel
+    - text: Saudi Living
       url: /
-    - text: Lifestyle & Fashion
+    - text: Popular Guides
       url: /
     - text: Foodie
       url: /
