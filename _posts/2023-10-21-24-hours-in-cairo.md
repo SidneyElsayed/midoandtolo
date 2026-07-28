@@ -24,7 +24,7 @@ seo:
     keywords: Cairo, itinerary
     hide-from-google: false
 ---
-If you’ve only got a day to do it, this is what you want to see. The best thing about these places is that they're still there – since they’ve always been there. Get ready to see the best spots in Cairo.
+If you’ve only got a day to do it, this is what you want to see. The best thing about these places is that they’re still there – since they’ve always been there. Get ready to see the best spots in Cairo.
 
 Cairo is obviously on your Egypt itinerary, but this day is not that. You’ll see no pyramids, ride no camels. This day is for Cairo, the living, breathing, life of the city.
 
